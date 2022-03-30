@@ -1,6 +1,6 @@
 # NFTX Assets
 
-Icons for the NFTX tokenlist
+Icons for the NFTX tokenlist.
 
 # NFTX tokenlist
 
