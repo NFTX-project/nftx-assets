@@ -494,6 +494,17 @@
       "name": "World of Women",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/149/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xe094b124dbff6e6a1905c4ee1c8dd65a805eb7a5",
+      "symbol": "WOWG",
+      "name": "World of Women Galaxy",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/414/256x256.png"
     }
   ]
 }
