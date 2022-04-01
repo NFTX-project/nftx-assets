@@ -4,7 +4,7 @@
     "nftx"
   ],
   "name": "NFTX V2 Tokens",
-  "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/nftx/icons/icon-on-white-bg-256.png",
+  "logoURI": "https://assets.nftx.io/nftx/icons/icon-on-white-bg-256.png",
   "version": {
     "major": 3,
     "minor": 8,
@@ -31,7 +31,7 @@
       "symbol": "WIZARD",
       "name": "Forgotten Runes Wizards Cult",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/24/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/24/256x256.png"
     },
     {
       "tags": [
@@ -42,7 +42,7 @@
       "symbol": "WAIFU",
       "name": "Waifusion",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/10/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/10/256x256.png"
     },
     {
       "tags": [
@@ -53,7 +53,7 @@
       "symbol": "TOSHI",
       "name": "Toshimon",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/40/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/40/256x256.png"
     },
     {
       "tags": [
@@ -64,7 +64,7 @@
       "symbol": "TOPDOG",
       "name": "Top Dog Beach Club",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/51/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/51/256x256.png"
     },
     {
       "tags": [
@@ -75,7 +75,7 @@
       "symbol": "SQGL",
       "name": "Chromie Squiggle",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/27/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/27/256x256.png"
     },
     {
       "tags": [
@@ -86,7 +86,7 @@
       "symbol": "SPUNK",
       "name": "SPUNKS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/45/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/45/256x256.png"
     },
     {
       "tags": [
@@ -97,7 +97,7 @@
       "symbol": "SODIUM",
       "name": "My Fucking Pickles",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/14/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/14/256x256.png"
     },
     {
       "tags": [
@@ -108,7 +108,7 @@
       "symbol": "RINGER",
       "name": "Ringers",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/8/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/8/256x256.png"
     },
     {
       "tags": [
@@ -119,7 +119,7 @@
       "symbol": "PUNK",
       "name": "CryptoPunks",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/0/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/0/256x256.png"
     },
     {
       "tags": [
@@ -130,7 +130,7 @@
       "symbol": "PUDGY",
       "name": "Pudgy Penguins",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/112/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/112/256x256.png"
     },
     {
       "tags": [
@@ -141,7 +141,7 @@
       "symbol": "PATH",
       "name": "Pathfinders",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/19/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/19/256x256.png"
     },
     {
       "tags": [
@@ -152,7 +152,7 @@
       "symbol": "PASTA",
       "name": "Spaghettification",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/49/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/49/256x256.png"
     },
     {
       "tags": [
@@ -163,7 +163,7 @@
       "symbol": "MORPH",
       "name": "Polymorphs",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/16/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/16/256x256.png"
     },
     {
       "tags": [
@@ -174,7 +174,7 @@
       "symbol": "MOONCAT",
       "name": "MoonCats",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/25/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/25/256x256.png"
     },
     {
       "tags": [
@@ -185,7 +185,7 @@
       "symbol": "MINUTE",
       "name": "720 Minutes",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/18/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/18/256x256.png"
     },
     {
       "tags": [
@@ -196,7 +196,7 @@
       "symbol": "META",
       "name": "Meta Bots",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/46/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/46/256x256.png"
     },
     {
       "tags": [
@@ -207,7 +207,7 @@
       "symbol": "MEEB",
       "name": "Meebits",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/7/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/7/256x256.png"
     },
     {
       "tags": [
@@ -218,7 +218,7 @@
       "symbol": "MASK",
       "name": "Hashmasks",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/6/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/6/256x256.png"
     },
     {
       "tags": [
@@ -229,7 +229,7 @@
       "symbol": "MANEKI",
       "name": "Lucky Maneki",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/39/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/39/256x256.png"
     },
     {
       "tags": [
@@ -240,7 +240,7 @@
       "symbol": "LADY",
       "name": "Fame Lady Squad",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/54/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/54/256x256.png"
     },
     {
       "tags": [
@@ -251,7 +251,7 @@
       "symbol": "KONGZ",
       "name": "Genesis CyberKongz",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/23/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/23/256x256.png"
     },
     {
       "tags": [
@@ -262,7 +262,7 @@
       "symbol": "KITTY",
       "name": "CryptoKitties Gen 0",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/5/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/5/256x256.png"
     },
     {
       "tags": [
@@ -273,7 +273,7 @@
       "symbol": "KAMAX",
       "name": "KamaGang",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/53/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/53/256x256.png"
     },
     {
       "tags": [
@@ -284,7 +284,7 @@
       "symbol": "HYPER",
       "name": "HyperHash",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/21/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/21/256x256.png"
     },
     {
       "tags": [
@@ -295,7 +295,7 @@
       "symbol": "HDPUNK",
       "name": "HD Punks",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/26/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/26/256x256.png"
     },
     {
       "tags": [
@@ -306,7 +306,7 @@
       "symbol": "GLYPH",
       "name": "Autoglyphs",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/4/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/4/256x256.png"
     },
     {
       "tags": [
@@ -317,7 +317,7 @@
       "symbol": "FACE",
       "name": "ChainFaces",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/43/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/43/256x256.png"
     },
     {
       "tags": [
@@ -328,7 +328,7 @@
       "symbol": "ENERGY",
       "name": "EnergySculpture",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/22/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/22/256x256.png"
     },
     {
       "tags": [
@@ -339,7 +339,7 @@
       "symbol": "DUCK",
       "name": "SupDucks",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/59/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/59/256x256.png"
     },
     {
       "tags": [
@@ -350,7 +350,7 @@
       "symbol": "COOL",
       "name": "Cool Cats",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/31/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/31/256x256.png"
     },
     {
       "tags": [
@@ -361,7 +361,7 @@
       "symbol": "COLLECTIVE",
       "name": "collective",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/29/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/29/256x256.png"
     },
     {
       "tags": [
@@ -372,7 +372,7 @@
       "symbol": "CLOCK",
       "name": "Alien Clock",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/58/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/58/256x256.png"
     },
     {
       "tags": [
@@ -383,7 +383,7 @@
       "symbol": "CARD",
       "name": "Ether Cards",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/17/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/17/256x256.png"
     },
     {
       "tags": [
@@ -394,7 +394,7 @@
       "symbol": "BUNNY",
       "name": "Genbit Bunnies",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/13/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/13/256x256.png"
     },
     {
       "tags": [
@@ -405,7 +405,7 @@
       "symbol": "BONSAI",
       "name": "Zenft Garden Society",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/3/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/3/256x256.png"
     },
     {
       "tags": [
@@ -416,7 +416,7 @@
       "symbol": "BGAN",
       "name": "BASTARD GAN PUNKS V2",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/12/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/12/256x256.png"
     },
     {
       "tags": [
@@ -427,7 +427,7 @@
       "symbol": "BEAM",
       "name": "Light Beams",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/20/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/20/256x256.png"
     },
     {
       "tags": [
@@ -438,7 +438,7 @@
       "symbol": "BAYC",
       "name": "Bored Ape Yacht Club",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/2/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/2/256x256.png"
     },
     {
       "tags": [
@@ -449,7 +449,7 @@
       "symbol": "BAKC",
       "name": "Bored Ape Kennel Club",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/11/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/11/256x256.png"
     },
     {
       "tags": [
@@ -460,7 +460,7 @@
       "symbol": "AVASTR",
       "name": "Avastars",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/1/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/1/256x256.png"
     },
     {
       "tags": [
@@ -471,7 +471,18 @@
       "symbol": "ALPACA",
       "name": "Alpaca City",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/42/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/42/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x2f131c4dad4be81683abb966b4de05a549144443",
+      "symbol": "DOODLE",
+      "name": "Doodles",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/251/256x256.png"
     }
   ]
 }
