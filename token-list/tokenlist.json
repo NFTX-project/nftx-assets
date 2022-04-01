@@ -483,6 +483,17 @@
       "name": "Doodles",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/251/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xb98217f7f050aad1696467a1559e726381879f33",
+      "symbol": "WOW",
+      "name": "World of Women",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/149/256x256.png"
     }
   ]
 }
