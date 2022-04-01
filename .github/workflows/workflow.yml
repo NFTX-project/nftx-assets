@@ -19,9 +19,10 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         AWS_REGION: 'us-east-1'   # optional: defaults to us-east-1
    #    SOURCE_DIR: 'public'      # optional: defaults to entire repository
-    - uses: nathanvaughn/actions-cloudflare-purge@master
-        if: success()
-        with:
-          cf_zone: ${{ secrets.CF_ZONE_ID }}
-          cf_auth: ${{ secrets.CF_AUTH_KEY }}
-          hosts: tokenlist.nftx.io assets.nftx.io
+    - name: Purge cache
+      uses: jakejarvis/cloudflare-purge-action@master
+      env:
+        # Zone is required by both authentication methods
+        CLOUDFLARE_ZONE: ${{ secrets.CF_ZONE_ID }}
+        CLOUDFLARE_TOKEN: ${{ secrets.CF_AUTH_KEY }}
+        PURGE_URLS: '["https://tokenlist.nftx.io", "https://assets.nftx.io/*"]'
