@@ -615,6 +615,17 @@
       "name": "Uwucrew",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/179/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xd89b16331f39ab3878daf395052851d3ac8cf3cd",
+      "symbol": "COVEN",
+      "name": "Crypto Coven",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/333/256x256.png"
     }
   ]
 }
