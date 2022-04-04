@@ -505,6 +505,116 @@
       "name": "World of Women Galaxy",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/414/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xa66734d48d564e4e1c016c8d2ea2e9131b41c1ad",
+      "symbol": "LOOT",
+      "name": "Loot (for Adventurers)",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/335/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x227c7df69d3ed1ae7574a1a7685fded90292eb48",
+      "symbol": "MILADY",
+      "name": "Milady Maker",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/392/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x1999a92711cf8815b7f6b07bd34b4287d853cfba",
+      "symbol": "TOADZ",
+      "name": "CrypToadz by GREMPLIN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/190/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x0e050b2b7adb2cae5e8593e280ed5582953f9ad2",
+      "symbol": "TUBBY",
+      "name": "Tubby Cats",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/373/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xe581f272706581f9dcc362df3c7934e99192c492",
+      "symbol": "PURR",
+      "name": "Purrnelopes Country Club",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/142/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5",
+      "symbol": "MANA",
+      "name": "Genesis Mana",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/209/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5",
+      "symbol": "MANA",
+      "name": "Genesis Mana",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/209/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91",
+      "symbol": "PHUNK",
+      "name": "CryptoPhunks",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/284/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xabea7663c472648d674bd3403d94c858dfeef728",
+      "symbol": "PUDGY",
+      "name": "Pudgy Penguins",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/112/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x5ce188b44266c7b4bbc67afa3d16b2eb24ed1065",
+      "symbol": "UWU",
+      "name": "Uwucrew",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/179/256x256.png"
     }
   ]
 }
