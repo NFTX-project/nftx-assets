@@ -626,6 +626,17 @@
       "name": "Crypto Coven",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/333/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xdB2FC08aAd83627DD92532094AE44203283F2810",
+      "symbol": "FVCKA",
+      "name": "FVCK_AVATAR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/424/256x256.png"
     }
   ]
 }
