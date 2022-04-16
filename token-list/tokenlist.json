@@ -648,6 +648,17 @@
       "name": "FroyoKittens",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/428/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xb603b3fc4b5ad885e26298b7862bb6074dff32a9",
+      "symbol": "LIL",
+      "name": "Lil Pudgys",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/434/256x256.png"
     }
   ]
 }
