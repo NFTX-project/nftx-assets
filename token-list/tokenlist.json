@@ -659,6 +659,17 @@
       "name": "Lil Pudgys",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/434/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xd3ad2b0a53cce2ebe6edd818c5d651806f638d47",
+      "symbol": "LION",
+      "name": "Lucky Lion Club",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/445/256x256.png"
     }
   ]
 }
