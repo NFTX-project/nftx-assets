@@ -670,6 +670,17 @@
       "name": "Lucky Lion Club",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/445/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x159aaf748fc07eb21aa9726e2c53ca271fc62211",
+      "symbol": "EIGHT",
+      "name": "Eightbit.me",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/456/256x256.png"
     }
   ]
 }
