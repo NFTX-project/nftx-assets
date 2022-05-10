@@ -692,6 +692,17 @@
       "name": "Crecodiles",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/470/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x4fa9e6eb2c576ce92cf474358f40b0a3be44ea32",
+      "symbol": "TINY",
+      "name": "tiny dinos (eth)",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/462/256x256.png"
     }
   ]
 }
