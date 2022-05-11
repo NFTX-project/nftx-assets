@@ -714,6 +714,17 @@
       "name": "Shiboshis",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/475/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x5f2f947544cb7d4fd5c62215f59ad8dab348358e",
+      "symbol": "FELLAZ",
+      "name": "Deadfellaz",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/476/256x256.png"
     }
   ]
 }
