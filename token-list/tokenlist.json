@@ -725,6 +725,17 @@
       "name": "Deadfellaz",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/476/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xc0d922b92b35c7b3f1a5311875e4716c7d913a55",
+      "symbol": "SMOWL",
+      "name": "SMOWL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/464/256x256.png"
     }
   ]
 }
