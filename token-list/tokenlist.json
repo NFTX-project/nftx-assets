@@ -780,6 +780,17 @@
       "name": "Alpha Shark",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/478/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x929d96baf9025f0c54bc6d16c40f86f6dc90ab6c",
+      "symbol": "CBS",
+      "name": "CyberBrokers",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/482/256x256.png"
     }
   ]
 }
