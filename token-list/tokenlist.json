@@ -813,6 +813,28 @@
       "name": "Chain Runners XR",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/496/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x6ac3900a35f492715eb6f94242d5318e8951bdfc",
+      "symbol": "GAWDS",
+      "name": "Gawds",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/498/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xae5d1aae108a169b1abe93d6d9d3faea60a74e31",
+      "symbol": "CHIMP",
+      "name": "Chimpers",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/497/256x256.png"
     }
   ]
 }
