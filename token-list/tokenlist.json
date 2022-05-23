@@ -802,6 +802,17 @@
       "name": "GOBLINTOWN",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/490/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x2a1e7893f1d2d72555409d9d1bd28e3619f7ca4d",
+      "symbol": "CRXR",
+      "name": "Chain Runners XR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/496/256x256.png"
     }
   ]
 }
