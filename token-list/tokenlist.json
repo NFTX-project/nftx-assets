@@ -791,6 +791,17 @@
       "name": "CyberBrokers",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/482/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xea23aff1724fe14c38be4f4493f456cac1afec0e",
+      "symbol": "GOBLIN",
+      "name": "GOBLINTOWN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/490/256x256.png"
     }
   ]
 }
