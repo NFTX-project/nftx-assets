@@ -835,6 +835,17 @@
       "name": "Chimpers",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/497/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xc1cdfedd7b867427bfce398fe74ead11e90fc4f8",
+      "symbol": "SO",
+      "name": "Significant Others",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/500/256x256.png"
     }
   ]
 }
