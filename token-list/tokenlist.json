@@ -846,6 +846,17 @@
       "name": "Significant Others",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/500/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x29a14d7954f4f233eb6ad772c49553c78901963e",
+      "symbol": "WASSIE",
+      "name": "Wassies by Wassies",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/504/256x256.png"
     }
   ]
 }
