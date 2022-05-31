@@ -1,14 +1,14 @@
 {
+  "name": "NFTX V2 Tokens",
+  "logoURI": "https://assets.nftx.io/nftx/icons/icon-on-white-bg-256.png",
   "keywords": [
     "nft",
     "nftx"
   ],
-  "name": "NFTX V2 Tokens",
-  "logoURI": "https://assets.nftx.io/nftx/icons/icon-on-white-bg-256.png",
   "version": {
     "major": 3,
     "minor": 9,
-    "patch": 0
+    "patch": 1
   },
   "tags": {
     "vault": {
@@ -20,7 +20,7 @@
       "description": "This token represents a staked NFTX vault token"
     }
   },
-  "timestamp": "2021-06-21T14:15:15.342Z",
+  "timestamp": "2022-05-30T14:15:15.342Z",
   "tokens": [
     {
       "tags": [
