@@ -3,12 +3,13 @@
   "logoURI": "https://assets.nftx.io/nftx/icons/icon-on-white-bg-256.png",
   "keywords": [
     "nft",
-    "nftx"
+    "nftx",
+    "defi"
   ],
   "version": {
     "major": 3,
     "minor": 9,
-    "patch": 1
+    "patch": 2
   },
   "tags": {
     "vault": {
