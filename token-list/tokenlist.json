@@ -8,7 +8,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 9,
+    "minor": 10,
     "patch": 2
   },
   "tags": {
@@ -858,6 +858,17 @@
       "name": "Wassies by Wassies",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/504/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x6047e101aaa9ab9b02fe5cbc1dd03c2c7c8516be",
+      "symbol": "AURA",
+      "name": "milady aura",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/527/256x256.png"
     }
   ]
 }
