@@ -182,17 +182,6 @@
         "vault"
       ],
       "chainId": 1,
-      "address": "0xcDa16f62A8d3127EA0aebfacB221C1CC41b8e488",
-      "symbol": "MINUTE",
-      "name": "720 Minutes",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/18/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
       "address": "0x2F5C3dD519E8a502c48c9FC104Eee64fDFF05F03",
       "symbol": "META",
       "name": "Meta Bots",
@@ -745,7 +734,7 @@
       "chainId": 1,
       "address": "0x8498b2528dd9f88ac2540eacbf9c38636a37dcb0",
       "symbol": "ILYYW",
-      "name": "I Like You, You are Weird",
+      "name": "I Like You\\, You\\'re Weird",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/481/256x256.png"
     },
