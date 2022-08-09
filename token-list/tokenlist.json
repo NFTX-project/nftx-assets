@@ -600,17 +600,6 @@
         "vault"
       ],
       "chainId": 1,
-      "address": "0xabea7663c472648d674bd3403d94c858dfeef728",
-      "symbol": "PUDGY",
-      "name": "Pudgy Penguins",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/112/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
       "address": "0x5ce188b44266c7b4bbc67afa3d16b2eb24ed1065",
       "symbol": "UWU",
       "name": "Uwucrew",
