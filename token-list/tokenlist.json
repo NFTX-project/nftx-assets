@@ -9,7 +9,7 @@
   "version": {
     "major": 3,
     "minor": 11,
-    "patch": 0
+    "patch": 1
   },
   "tags": {
     "vault": {
@@ -567,17 +567,6 @@
         "vault"
       ],
       "chainId": 1,
-      "address": "0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5",
-      "symbol": "MANA",
-      "name": "Genesis Mana",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/209/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
       "address": "0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91",
       "symbol": "PHUNK",
       "name": "CryptoPhunks",
@@ -836,6 +825,160 @@
       "name": "milady aura",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/527/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x94c9ceb2f9741230fad3a62781b27cc79a9460d4",
+      "symbol": "MAYC",
+      "name": "Mutant Ape Yacht Club",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/298/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xfc0247cdaabc166423915077b666fa3bb9d1ee4d",
+      "symbol": "OTHR",
+      "name": "Otherdeed",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/466/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xe97e496e8494232ee128c1a8cae0b2b7936f3caa",
+      "symbol": "CURIO",
+      "name": "Curio Cards",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/241/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x18222a762bf67024193de25e1cdc7aa6e614c695",
+      "symbol": "LIL",
+      "name": "Lil Nouns",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/558/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xdf7a2593a70ff1e69b5a20644ae848558a2f7c86",
+      "symbol": "MFER",
+      "name": "mfers",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/306/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x2034437801b62ede275210f76e2d4e77d0198bff",
+      "symbol": "ROO",
+      "name": "Roo Troop",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/312/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xa8b42c82a628dc43c2c2285205313e5106ea2853",
+      "symbol": "MCAT17",
+      "name": "MoonCats2017",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/451/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xf373a10d21cc4a9f84421c69ec2d9528b6162012",
+      "symbol": "KGF",
+      "name": "Killer GF",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/341/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x74d84d49b3b2f5170a82ecab06cf8629e5239efb",
+      "symbol": "GENMINT",
+      "name": "Gen.Art Membership",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/274/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x1f104e7b11a6f5b4a15a438e0a107954afd7769f",
+      "symbol": "GALS",
+      "name": "Shinsei Galverse",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/438/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xdc9525a6e02c8697558a848b883c3e4cff4eec0d",
+      "symbol": "EDEN",
+      "name": "Edenhorde",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/418/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x69ec436a1eaefef15e75543969f800ec2afc4490",
+      "symbol": "STARZ",
+      "name": "Allstarz",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/543/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x7269c9aaa5ed95f0cc9dc15ff19a4596308c889c",
+      "symbol": "MORIE",
+      "name": "CryptoMories",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/299/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x6ec24985813a985e1b20041d30e209db38ca1e1e",
+      "symbol": "MICE",
+      "name": "Anonymice",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/383/256x256.png"
     }
   ]
 }
