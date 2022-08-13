@@ -9,7 +9,7 @@
   "version": {
     "major": 3,
     "minor": 11,
-    "patch": 1
+    "patch": 2
   },
   "tags": {
     "vault": {
@@ -979,6 +979,72 @@
       "name": "Anonymice",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/383/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x54abc3f8b584d6de4af280aabba7a1a70e2cc57c",
+      "symbol": "RIG",
+      "name": "Tableland Rigs",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/612/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xaf87e5f42fc751aef8b068b3b873dae8e4bd3e39",
+      "symbol": "BFF",
+      "name": "Barts Farm Frens",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/617/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x1d37cb1be7c7c8c0fc7b24580668eedceca93dcf",
+      "symbol": "PAL",
+      "name": "WonderPals",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/622/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xece3e14924eecb79aadc286839a86c0d54718d95",
+      "symbol": "BARREN",
+      "name": "The Barren Court",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/626/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x3f5f8153004e081cb03c64324034b7578ac92a7e",
+      "symbol": "MIR",
+      "name": "Milady Rave",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/633/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xe118b7e19a2e96c90765ef526b7ada966df7e713",
+      "symbol": "FRINGE",
+      "name": "Fringe Drifters",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/610/256x256.png"
     }
   ]
 }
