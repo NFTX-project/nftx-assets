@@ -1045,6 +1045,17 @@
       "name": "Fringe Drifters",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/610/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x614a0c75b1574748634dea378a7044f614b6fd9d",
+      "symbol": "NNNN",
+      "name": "10K Club",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/630/256x256.png"
     }
   ]
 }
