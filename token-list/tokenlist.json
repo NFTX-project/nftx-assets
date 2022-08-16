@@ -9,7 +9,7 @@
   "version": {
     "major": 3,
     "minor": 11,
-    "patch": 3
+    "patch": 4
   },
   "tags": {
     "vault": {
@@ -1053,9 +1053,20 @@
       "chainId": 1,
       "address": "0x614a0c75b1574748634dea378a7044f614b6fd9d",
       "symbol": "NNNN",
-      "name": "10K Club",
+      "name": "10K Club ENS",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/630/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x9dd2d60060de7bd524c871751d34b9e1bae6e63f",
+      "symbol": "TORI",
+      "name": "ToriZero",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/627/256x256.png"
     }
   ]
 }
