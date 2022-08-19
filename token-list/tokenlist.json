@@ -9,7 +9,7 @@
   "version": {
     "major": 3,
     "minor": 11,
-    "patch": 4
+    "patch": 5
   },
   "tags": {
     "vault": {
@@ -1067,6 +1067,17 @@
       "name": "ToriZero",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/627/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x4a024f59814a12036cc07532ff11f59caff8b0b8",
+      "symbol": "MAKERS",
+      "name": "MakersPlace Vault",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/645/256x256.png"
     }
   ]
 }
