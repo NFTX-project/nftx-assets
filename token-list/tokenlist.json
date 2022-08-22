@@ -1089,6 +1089,18 @@
       "name": "Toy Stash",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/648/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xf357c8270d5eb35655622c87dd76d182833562c4",
+      "symbol": "WEBA",
+      "name": "Webaverse Genesis Pass",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/649/256x256.png"
     }
   ]
 }
+
