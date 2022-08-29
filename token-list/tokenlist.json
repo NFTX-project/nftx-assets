@@ -1100,6 +1100,28 @@
       "name": "Webaverse Genesis Pass",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/649/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x6663a45e347c2fe6b8ab18a3cf880f139c242695",
+      "symbol": "WIZE",
+      "name": "Wize Fellaz",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/655/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x4fae03385dcf5518dd43c03c2f963092c89de33c",
+      "symbol": "PHUNKY",
+      "name": "V3Phunks",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/656/256x256.png"
     }
   ]
 }
