@@ -9,7 +9,7 @@
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {
     "vault": {
@@ -1122,7 +1122,17 @@
       "name": "V3Phunks",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/656/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x97a495e145fa73fd775fd7975172a74354a59e44",
+      "symbol": "UNF",
+      "name": "Unfudables",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/657/256x256.png"
     }
   ]
 }
-
