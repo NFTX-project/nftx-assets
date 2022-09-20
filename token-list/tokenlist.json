@@ -9,7 +9,7 @@
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {
     "vault": {
@@ -1133,6 +1133,39 @@
       "name": "Unfudables",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/657/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x57cf2d365c91983f026bc4e00e8033b912162317",
+      "symbol": "POND",
+      "name": "ribbitsnft",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/683/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x4d3f0e89b46c0f9d7e3ce80bc577351d3dfe4e51",
+      "symbol": "MGDPHK",
+      "name": "MergedPhunks",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/681/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xbc91a632e78db7c74508ea26e91b266aa235f051",
+      "symbol": "PXLDY",
+      "name": "Pixelady Maker",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/679/256x256.png"
     }
   ]
 }
