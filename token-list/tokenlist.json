@@ -8,8 +8,8 @@
   ],
   "version": {
     "major": 4,
-    "minor": 0,
-    "patch": 3
+    "minor": 1,
+    "patch": 0
   },
   "tags": {
     "vault": {
@@ -1166,6 +1166,39 @@
       "name": "Pixelady Maker",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/679/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x9332Ad7F5a8B75024662588b7eEe450C513ef9ac",
+      "symbol": "SAUDIS",
+      "name": "THE SAUDIS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/572/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0xa6f080339ccd1ad852c9c14f468a09e4193e71be",
+      "symbol": "KNOWN",
+      "name": "Vintage KnownOrigin [0xFBeef]",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/573/256x256.png"
+    },
+    {
+      "tags": [
+        "vault"
+      ],
+      "chainId": 1,
+      "address": "0x275C668AAbb1fAa666f1CE5dCa5dC8c744dE75BF",
+      "symbol": "GHIB",
+      "name": "Ghiblady Maker",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/719/256x256.png"
     }
   ]
 }
