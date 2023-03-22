@@ -7,1198 +7,4411 @@
     "defi"
   ],
   "version": {
-    "major": 4,
-    "minor": 1,
+    "major": 5,
+    "minor": 0,
     "patch": 0
   },
-  "tags": {
-    "vault": {
-      "name": "Vault Token",
-      "description": "This token represents an NFTX vault token"
-    },
-    "staked": {
-      "name": "Staked Token",
-      "description": "This token represents a staked NFTX vault token"
-    }
-  },
-  "timestamp": "2022-05-30T14:15:15.342Z",
+  "timestamp": "2023-03-22T15:01:22.322Z",
   "tokens": [
     {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0x87931E7AD81914e7898d07c68F145fC0A553D8Fb",
-      "symbol": "WIZARD",
-      "name": "Forgotten Runes Wizards Cult",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/24/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xE7F4c89032A2488D327323548AB0459676269331",
-      "symbol": "WAIFU",
-      "name": "Waifusion",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/10/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0x1b9Aa0b63e0F025CD544E4d350ed81429b43b724",
-      "symbol": "TOSHI",
-      "name": "Toshimon",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/40/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xc57bAa24F72037C21f9c0d345BB6F19f47407447",
-      "symbol": "TOPDOG",
-      "name": "Top Dog Beach Club",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/51/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0x8d137e3337eb1B58A222Fef2B2Cc7C423903d9cf",
-      "symbol": "SQGL",
-      "name": "Chromie Squiggle",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/27/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0x97Aa8e14db0bc073cC7e2d42AC715427717d6042",
-      "symbol": "SPUNK",
-      "name": "SPUNKS",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/45/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xc443930Ecd59e55e42Efe976B8a4bA0658f5c50a",
-      "symbol": "SODIUM",
-      "name": "My Fucking Pickles",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/14/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0x13edcC775f8895961B81Db5C0205889B3Afb3A16",
-      "symbol": "RINGER",
-      "name": "Ringers",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/8/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
       "address": "0x269616d549d7e8eaa82dfb17028d0b212d11232a",
-      "symbol": "PUNK",
       "name": "CryptoPunks",
+      "symbol": "PUNK",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/0/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xAbeA7663c472648d674bd3403D94C858dFeEF728",
-      "symbol": "PUDGY",
-      "name": "Pudgy Penguins",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/112/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0x478e677C0bD24c848bD591Cc5273383DD5F30e4a",
-      "symbol": "PATH",
-      "name": "Pathfinders",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/19/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xEA6C27d11cCB9306154F87d47dc1405c37242081",
-      "symbol": "PASTA",
-      "name": "Spaghettification",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/49/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xCc3F1441e84f124A65Bc9798A69A5C4cEbC20dFF",
-      "symbol": "MORPH",
-      "name": "Polymorphs",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/16/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0x98968f0747E0A261532cAcC0BE296375F5c08398",
-      "symbol": "MOONCAT",
-      "name": "MoonCats",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/25/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0x2F5C3dD519E8a502c48c9FC104Eee64fDFF05F03",
-      "symbol": "META",
-      "name": "Meta Bots",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/46/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0x641927E970222B10b2E8CDBC96b1B4F427316f16",
-      "symbol": "MEEB",
-      "name": "Meebits",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/7/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xC7a8B45E184138114E6085C82936A8Db93DD156a",
-      "symbol": "MASK",
-      "name": "Hashmasks",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/6/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xc716cf01532999E5dF45E1BD09743128c5932821",
-      "symbol": "MANEKI",
-      "name": "Lucky Maneki",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/39/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xD1B859c0Dffe24C3cd5502b0F3C6fCf066da1d9a",
-      "symbol": "LADY",
-      "name": "Fame Lady Squad",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/54/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0x5A235C0b4cB8d0e80a5c3bF4d2faD5c32E440884",
-      "symbol": "KONGZ",
-      "name": "Genesis CyberKongz",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/23/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0x9b9fB226E98C4e90DB2830C9aefa9cfcBE3b000a",
-      "symbol": "KITTY",
-      "name": "CryptoKitties Gen 0",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/5/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xb2C62E0A1F5837356e399359eCc34fcC49A02093",
-      "symbol": "KAMAX",
-      "name": "KamaGang",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/53/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xeb5a8eEFDAE23a815072BF28de8114a825C27876",
-      "symbol": "HYPER",
-      "name": "HyperHash",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/21/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0x42B4dF7e402A71EAE743c6C5410CE3BBb63aEf22",
-      "symbol": "HDPUNK",
-      "name": "HD Punks",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/26/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xD70240Dd62F4ea9a6A2416e0073D72139489d2AA",
-      "symbol": "GLYPH",
-      "name": "Autoglyphs",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/4/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xcd46d92C46be1DbbD5CcC497e95611ABE9D507Bc",
-      "symbol": "FACE",
-      "name": "ChainFaces",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/43/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xFDE98A3Bf5C7F6336aE4ce1b43148aEab7b7c89A",
-      "symbol": "ENERGY",
-      "name": "EnergySculpture",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/22/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xFFE136de12a2cd95f64ceF9F36414c93e9003959",
-      "symbol": "DUCK",
-      "name": "SupDucks",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/59/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0x114f1388fAB456c4bA31B1850b244Eedcd024136",
-      "symbol": "COOL",
-      "name": "Cool Cats",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/31/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xb3B4431F812A74BdfC148d6bDdfAdEcdC63FC083",
-      "symbol": "COLLECTIVE",
-      "name": "collective",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/29/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xA4e4fF5A3AeA352378a3bFefEf13765130909376",
-      "symbol": "CLOCK",
-      "name": "Alien Clock",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/58/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xD6F7dB7dB116170ecb1c3b35F12c1E693bA70586",
-      "symbol": "CARD",
-      "name": "Ether Cards",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/17/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0x33e70C9EFABDf151f5c674A4ADDC104874980c3f",
-      "symbol": "BUNNY",
-      "name": "Genbit Bunnies",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/13/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xf0fE1A87aBf12099b77352BdCc10F5A87067b290",
-      "symbol": "BONSAI",
-      "name": "Zenft Garden Society",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/3/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xc3B5284B2c0cfa1871a6ac63B6d6ee43c08BDC79",
-      "symbol": "BGAN",
-      "name": "BASTARD GAN PUNKS V2",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/12/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xcD9b72f6E971026ea8609D2918C7BD02e1653945",
-      "symbol": "BEAM",
-      "name": "Light Beams",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/20/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xEA47B64e1BFCCb773A0420247C0aa0a3C1D2E5C5",
-      "symbol": "BAYC",
-      "name": "Bored Ape Yacht Club",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/2/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xe632e1EA781df32c60AB11052958744CBfBc439A",
-      "symbol": "BAKC",
-      "name": "Bored Ape Kennel Club",
-      "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/11/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 1,
-      "address": "0xdcDc1c1cC33AA817CbDBe8F5E2390BF7cc43dc4B",
-      "symbol": "AVASTR",
+      "address": "0xdcdc1c1cc33aa817cbdbe8f5e2390bf7cc43dc4b",
       "name": "Avastars",
+      "symbol": "AVASTR",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/1/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x413f6A89DdB823974F24F2E3cD3B4f467D3BBB38",
-      "symbol": "ALPACA",
+      "address": "0xea47b64e1bfccb773a0420247c0aa0a3c1d2e5c5",
+      "name": "Bored Ape Yacht Club",
+      "symbol": "BAYC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/2/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0fe1a87abf12099b77352bdcc10f5a87067b290",
+      "name": "Zenft Garden Society",
+      "symbol": "BONSAI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/3/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd70240dd62f4ea9a6a2416e0073d72139489d2aa",
+      "name": "Autoglyphs",
+      "symbol": "GLYPH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/4/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b9fb226e98c4e90db2830c9aefa9cfcbe3b000a",
+      "name": "CryptoKitties [Gen 0]",
+      "symbol": "KITTY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/5/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7a8b45e184138114e6085c82936a8db93dd156a",
+      "name": "Hashmasks",
+      "symbol": "MASK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/6/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x641927e970222b10b2e8cdbc96b1b4f427316f16",
+      "name": "Meebits",
+      "symbol": "MEEB",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/7/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7f4c89032a2488d327323548ab0459676269331",
+      "name": "Waifusion",
+      "symbol": "WAIFU",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/10/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe632e1ea781df32c60ab11052958744cbfbc439a",
+      "name": "Bored Ape Kennel Club",
+      "symbol": "BAKC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/11/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3b5284b2c0cfa1871a6ac63b6d6ee43c08bdc79",
+      "name": "BASTARD GAN PUNKS V2",
+      "symbol": "BGAN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/12/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x33e70c9efabdf151f5c674a4addc104874980c3f",
+      "name": "Genbit Bunnies",
+      "symbol": "BUNNY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/13/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc443930ecd59e55e42efe976b8a4ba0658f5c50a",
+      "name": "My Fucking Pickles",
+      "symbol": "SODIUM",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/14/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xcc3f1441e84f124a65bc9798a69a5c4cebc20dff",
+      "name": "Polymorphs",
+      "symbol": "MORPH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/16/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd6f7db7db116170ecb1c3b35f12c1e693ba70586",
+      "name": "Ether Cards",
+      "symbol": "CARD",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/17/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xcda16f62a8d3127ea0aebfacb221c1cc41b8e488",
+      "name": "720 Minutes",
+      "symbol": "MINUTE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/18/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x478e677c0bd24c848bd591cc5273383dd5f30e4a",
+      "name": "Pathfinders",
+      "symbol": "PATH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/19/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd9b72f6e971026ea8609d2918c7bd02e1653945",
+      "name": "Light Beams",
+      "symbol": "BEAM",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/20/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xeb5a8eefdae23a815072bf28de8114a825c27876",
+      "name": "HyperHash",
+      "symbol": "HYPER",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/21/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfde98a3bf5c7f6336ae4ce1b43148aeab7b7c89a",
+      "name": "EnergySculpture",
+      "symbol": "ENERGY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/22/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a235c0b4cb8d0e80a5c3bf4d2fad5c32e440884",
+      "name": "Genesis CyberKongz",
+      "symbol": "KONGZ",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/23/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x87931e7ad81914e7898d07c68f145fc0a553d8fb",
+      "name": "Forgotten Runes Wizards Cult",
+      "symbol": "WIZARD",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/24/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x98968f0747e0a261532cacc0be296375f5c08398",
+      "name": "MoonCats",
+      "symbol": "MOONCAT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/25/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x42b4df7e402a71eae743c6c5410ce3bbb63aef22",
+      "name": "HD Punks",
+      "symbol": "HDPUNK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/26/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d137e3337eb1b58a222fef2b2cc7c423903d9cf",
+      "name": "Chromie Squiggle",
+      "symbol": "SQGL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/27/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3b4431f812a74bdfc148d6bddfadecdc63fc083",
+      "name": "collective",
+      "symbol": "COLLECTIVE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/29/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x114f1388fab456c4ba31b1850b244eedcd024136",
+      "name": "Cool Cats",
+      "symbol": "COOL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/31/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd53998c536fc8b59b38aa0b49dbd8170d5ebf4c2",
+      "name": "Cryptopups",
+      "symbol": "PUPS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/33/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91",
+      "name": "CryptoPhunks",
+      "symbol": "PHUNK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/34/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe944f2b46fcfc9d0e887bbeaad95268d9416d0fd",
+      "name": "Strawberry.WTF",
+      "symbol": "BERRY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/36/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x63aa9d05c025279f8e963ba784f1254814c1e12b",
+      "name": "Sandbox Land Standard",
+      "symbol": "SBLAND",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/37/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc716cf01532999e5df45e1bd09743128c5932821",
+      "name": "Lucky Maneki",
+      "symbol": "MANEKI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/39/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b9aa0b63e0f025cd544e4d350ed81429b43b724",
+      "name": "Toshimon",
+      "symbol": "TOSHI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/40/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc73b038246d6694f1a03b6657bd167a28029ece6",
+      "name": "0xmons",
+      "symbol": "XMONS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/41/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x413f6a89ddb823974f24f2e3cd3b4f467d3bbb38",
       "name": "Alpaca City",
+      "symbol": "ALPACA",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/42/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x2f131c4dad4be81683abb966b4de05a549144443",
-      "symbol": "DOODLE",
-      "name": "Doodles",
+      "address": "0xcd46d92c46be1dbbd5ccc497e95611abe9d507bc",
+      "name": "ChainFaces",
+      "symbol": "FACE",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/251/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/43/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xb98217f7f050aad1696467a1559e726381879f33",
-      "symbol": "WOW",
-      "name": "World of Women",
+      "address": "0x97aa8e14db0bc073cc7e2d42ac715427717d6042",
+      "name": "SPUNKS",
+      "symbol": "SPUNK",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/149/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/45/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xe094b124dbff6e6a1905c4ee1c8dd65a805eb7a5",
-      "symbol": "WOWG",
-      "name": "World of Women Galaxy",
+      "address": "0x2f5c3dd519e8a502c48c9fc104eee64fdff05f03",
+      "name": "Meta Bots",
+      "symbol": "META",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/414/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/46/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xa66734d48d564e4e1c016c8d2ea2e9131b41c1ad",
-      "symbol": "LOOT",
-      "name": "Loot (for Adventurers)",
+      "address": "0x1ee01654665303a5dd2744e30b576941880e3a73",
+      "name": "Degen'$ Farm Normies",
+      "symbol": "DFNORM",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/335/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/48/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x227c7df69d3ed1ae7574a1a7685fded90292eb48",
-      "symbol": "MILADY",
-      "name": "Milady Maker",
+      "address": "0xea6c27d11ccb9306154f87d47dc1405c37242081",
+      "name": "Spaghettification",
+      "symbol": "PASTA",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/392/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/49/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x1999a92711cf8815b7f6b07bd34b4287d853cfba",
-      "symbol": "TOADZ",
-      "name": "CrypToadz by GREMPLIN",
+      "address": "0x6443e507f53b526042d0054867a60a4c0409cb4b",
+      "name": "Chainlink NFT Hub Paradise Dimension",
+      "symbol": "CNHPD",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/190/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/52/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x0e050b2b7adb2cae5e8593e280ed5582953f9ad2",
-      "symbol": "TUBBY",
-      "name": "Tubby Cats",
+      "address": "0xb2c62e0a1f5837356e399359ecc34fcc49a02093",
+      "name": "KamaGang",
+      "symbol": "KAMAX",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/373/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/53/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
+      "chainId": 1,
+      "address": "0xd1b859c0dffe24c3cd5502b0f3c6fcf066da1d9a",
+      "name": "Fame Lady Squad",
+      "symbol": "LADY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/54/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5cd56bf2cd394ab185ba4976fccb68ae28930252",
+      "name": "Divine Order of the Zodiac",
+      "symbol": "ZODIAC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/56/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4e4ff5a3aea352378a3bfefef13765130909376",
+      "name": "Alien Clock",
+      "symbol": "CLOCK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/58/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xffe136de12a2cd95f64cef9f36414c93e9003959",
+      "name": "SupDucks",
+      "symbol": "DUCK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/59/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2928a3922c1ba54c6d23f3430aa5ff04ba8eb759",
+      "name": "Goblin Goons",
+      "symbol": "GOON",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/60/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x78e09c5ec42d505742a52fd10078a57ea186002a",
+      "name": "Twerky Club",
+      "symbol": "TWERKY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/61/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b7c94bc9ec137d67fbddb203b2814f0f1f9b377",
+      "name": "Weird Whales",
+      "symbol": "WHALE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/62/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d74c70120cb34dd1cc0b1fb72493b5ce4903072",
+      "name": "Pixelglyphs",
+      "symbol": "PXG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/63/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2c562cd6cdae7cd97fb51474b15dbca7886b935",
+      "name": "DigiRocks",
+      "symbol": "ROCKS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/64/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a03515b72ffc7709d4103c75e74c2efb32a9133",
+      "name": "Degen'$ Farm Genesis Egg",
+      "symbol": "DFGEGG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/65/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d9f52b53ccb1b7b62d4fb1c0dd3155a4f445b75",
+      "name": "TheSingularityHeroes",
+      "symbol": "SLHERO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/68/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdffbf528718da939d9646d3df23697866209c265",
+      "name": "InvertedApeClub",
+      "symbol": "IAPE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/70/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xefe2eadf814179d93651e07607d661d2953cd55f",
+      "name": "Galactic Secret Agency",
+      "symbol": "GSA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/74/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5b7accb7272a6a0ff27fb1e8011722ac9ae47b7",
+      "name": "CrypTinies",
+      "symbol": "TINIE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/75/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x15e2c631d1a065de54bea4c9eaf39e3e3506d969",
+      "name": "Chainlink NFT Hub Safe Haven",
+      "symbol": "CNHSH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/77/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x69784fb3c658b3d5426df28ad1a4b993fcc53747",
+      "name": "Chainlink NFT Hub Heavenly Hexagon",
+      "symbol": "CNHHH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/78/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x53e305c27444232ebf6712ee361c4906c5e8058a",
+      "name": "Rabbit College Club",
+      "symbol": "RABBIT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/81/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8eb56c7e4e3c885c905a19583bf41644d35aa0a",
+      "name": "Pixls",
+      "symbol": "PIXLS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/83/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb46c73dc30ec8ab74341cfa822cac1507b5a3b03",
+      "name": "BoredBananas",
+      "symbol": "BNANA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/84/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x62c30556fde78b3423075758dc3fb74e2eccbfe4",
+      "name": "Cypher City",
+      "symbol": "CYPHER",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/88/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf887f2af215f985ae74b80b8fb29e3ed5a238407",
+      "name": "DEEBIES",
+      "symbol": "DBS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/91/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6ce848f188dc4feed490f221e7332feb7af00993",
+      "name": "Sewer Rat Social Club",
+      "symbol": "RAT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/92/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf49ccd870a3a08b296f36e4c930c057473c63187",
+      "name": "Wubba Lubba",
+      "symbol": "DUB",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/93/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb915f83f5744c3317add69f8b2653dd35c25cd26",
+      "name": "Mars Genesis",
+      "symbol": "MARS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/95/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e8a5f4b2a24e1ef33ccd98ef0e4e65624c3ae70",
+      "name": "Ask Doctor Bitcoin Cover Art",
+      "symbol": "ADBCA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/96/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x85f373ef7d3d4c2675e6215242670987e35886e2",
+      "name": "Long Neckie Lady",
+      "symbol": "DINO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/97/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe306a0c20d060a3f414a0b2f4cd8397d54cf9491",
+      "name": "Unstoppable Domains .Crypto TLD",
+      "symbol": "CRYPTO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/99/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xaebfaa45f98b655f85fdd6df3dc8e9c073a59779",
+      "name": "thedudes",
+      "symbol": "DUDE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/101/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf499b7d2c2da27c023318dce53050428071079c8",
+      "name": "Janky Heist",
+      "symbol": "JANK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/110/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f585f03f7d2a5a0d00e3d6b873f4b6cca49f6e2",
+      "name": "KungFu Hero",
+      "symbol": "KUNGFU",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/111/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xabea7663c472648d674bd3403d94c858dfeef728",
+      "name": "Pudgy Penguins",
+      "symbol": "PUDGY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/112/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4304940f12f9740ffce4124d0e2ec1340cc6f349",
+      "name": "Parallel Alpha",
+      "symbol": "PARALLEL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/113/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xaedce4e89671829046e668cbe849c949df222cf9",
+      "name": "ShibaInuSpace",
+      "symbol": "SIS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/114/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb431f21561bc6785c579fa1a760087d884854ff4",
+      "name": "Ethermore",
+      "symbol": "HEROES",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/115/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x60c2f34de5fbac94e3a93d0455937f3f88fbd0c9",
+      "name": "Funky Dino",
+      "symbol": "DINO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/116/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x970a0b8028f6ff85392824f20136dc9fc56d7488",
+      "name": "Robotos",
+      "symbol": "ROBOTO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/118/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x295fc05d34fa93e92370c7706043e0705fc6acaa",
+      "name": "PROOF OF BEAUTY'S $LONDON GIFT",
+      "symbol": "LONDON",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/120/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x53f10ac913ad108b8dfbee907a710f92f9b576dd",
+      "name": "DystoPunks V2",
+      "symbol": "DYSTO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/121/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xea1f08c0debd728753b7196d689d065d1b5d5585",
+      "name": "Proof of Beauty's $LONDON Gift",
+      "symbol": "LONDON",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/122/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4aa7386ceb1d61f2665f4ae65af0efbc1a099a11",
+      "name": "Highest Effort Apes",
+      "symbol": "HEA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/125/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x051218de982d91c3af03187ed3d8a0dde8231333",
+      "name": "Nice Drips",
+      "symbol": "DRIP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/126/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3d3738c698e868a239fde7ee21e37834c7a1708c",
+      "name": "Zunks",
+      "symbol": "ZUNK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/129/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x01b0b287f784ccd19cf0a7c11127a70963fd9d30",
+      "name": "Party Penguins",
+      "symbol": "PPENG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/131/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc8b76186a4be8d399c06d9391da531577f810dc8",
+      "name": "Space Shibes Doggy Daycare",
+      "symbol": "SHIBE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/132/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f1181779c22a1670837486e1056112fc776c6f5",
+      "name": "Lucha Libre Knockout",
+      "symbol": "LUCHA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/133/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x32fb2a84af5515f77515806ea5addb54c923237d",
+      "name": "SOLOS",
+      "symbol": "SOLO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/135/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f8cd97268a49421929e7f1a0eefbe74ad8b60da",
+      "name": "HDPunk 🔫 Roulette 🔫",
+      "symbol": "HDPNKR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/136/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fc28c2fa0bee55e9837ab8f2257180f0c095c36",
+      "name": "Procedural Space",
+      "symbol": "PLANET",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/137/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3d970abc5d4e20a7fc08fe1f18af41058314a11",
+      "name": "MOONDOGS ODYSSEY",
+      "symbol": "WIENER",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/139/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a63cce6952985f58bbd10c4791b6ff1ba93fffc",
+      "name": "Animetas",
+      "symbol": "ANIME",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/140/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0dcece6d9a79607a854d42e5bb50a307c060457",
+      "name": "Citizens of Bulliever Island",
+      "symbol": "COBI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/141/256x256.png"
+    },
+    {
       "chainId": 1,
       "address": "0xe581f272706581f9dcc362df3c7934e99192c492",
-      "symbol": "PURR",
       "name": "Purrnelopes Country Club",
+      "symbol": "PURR",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/142/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5",
-      "symbol": "MANA",
-      "name": "Genesis Mana",
+      "address": "0xead894aaa04b23bc39a3005b79db86c182a1741b",
+      "name": "Bored Mummy Waking Up (BMWU)",
+      "symbol": "BMWU",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/209/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/143/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91",
-      "symbol": "PHUNK",
-      "name": "CryptoPhunks",
+      "address": "0xdcaaca96ed63f15e11723da0acf8639af71c70ce",
+      "name": "The Wanderers",
+      "symbol": "WANDER",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/284/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/144/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
+      "chainId": 1,
+      "address": "0x04c5d215401411c4f28e167b3e9e3290d1178cd8",
+      "name": "JunkYard Dogs",
+      "symbol": "JYD",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/145/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4dfca7eb71d9edbe5714652cc7bd81003bd2e059",
+      "name": "Sad Frogs District",
+      "symbol": "FROG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/147/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x213d003ecc4750c220795f31dbcea1fb3bff67d1",
+      "name": "The Fuckin' Trolls v4",
+      "symbol": "TROLL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/148/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb98217f7f050aad1696467a1559e726381879f33",
+      "name": "World of Women",
+      "symbol": "WOW",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/149/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x457b1687a54cec1ef374a0a13f10b4b4d3a5066b",
+      "name": "HDPunk 🐱‍💻 Hoodies 🐱‍💻",
+      "symbol": "HDPNKH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/150/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x64b830a2fccf31c1dcbbbe119fa15be4b90288c1",
+      "name": "Generative Masks",
+      "symbol": "GENMASK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/151/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf434fc315977143c321a07406452a87ec62cb2d9",
+      "name": "BlockCities",
+      "symbol": "CITIES",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/153/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x33a308f15b87bb2057f1efb199fd5c70d9eeeb18",
+      "name": "Playing Arts Crypto Edition",
+      "symbol": "PACE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/154/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2bb2820371ef895444e58f285fad89b3a86fbf6d",
+      "name": "Cute Pig Club",
+      "symbol": "CPC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/155/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb59cf6813a56ef9b02eb830f32fa25fb3e3412f",
+      "name": "Non Fungible Frens",
+      "symbol": "FREN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/156/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x30a017c4fce713cee705270bfbb2cec2275eb9df",
+      "name": "Astrohedz",
+      "symbol": "HEDZ",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/157/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdf63184545a4168b8f8f307bf9dd615f61b012fa",
+      "name": "Catctus",
+      "symbol": "CATCTI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/158/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x494e5434e6872c83685ce223875b8d489e1779ff",
+      "name": "Stray Cats",
+      "symbol": "SCAT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/159/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdac9f64295eb76928e4563d0688be9048373f13e",
+      "name": "0N1 Force",
+      "symbol": "ONI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/160/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9744ae7c29c27c4eaf0dbc11e419e28b8a87027",
+      "name": "Lamb Duhs",
+      "symbol": "LAMB",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/161/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xeeb588a5c9a630c3028a22e86a28fec0771ac113",
+      "name": "FLUF World ",
+      "symbol": "FLUF",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/162/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5637e3cdb52c3fecd1064027ad10eba06fa705e5",
+      "name": "Satoshibles",
+      "symbol": "SATS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/163/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x17163d305866c7e02004235ecb3921fd5b5e5d84",
+      "name": "Lost Souls Sanctuary",
+      "symbol": "SOUL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/164/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1093f8a423e5f79e16968ae13c307572128d1fd5",
+      "name": " Heaven Computer",
+      "symbol": "HEAVEN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/165/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x244ebeb9fe1ece439a886fb1f1b143a8bc44de40",
+      "name": "CryptoCorgis",
+      "symbol": "CORGI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/169/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x54d339cfd8f308d32c2f07f5dc9dd34af7753e20",
+      "name": "Party Bones",
+      "symbol": "PBONE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/171/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x09759d67441ffdc8f470f368776368715d32a261",
+      "name": "DOPESHIBAS",
+      "symbol": "DOPEST",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/172/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a09eec78998924c24b287f0576253ffa9e87c21",
+      "name": "Space Poggers",
+      "symbol": "POGGER",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/174/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e7d2dde3f1e81d097cb5ec29d21ea7588833fe4",
+      "name": "Starlings",
+      "symbol": "STAR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/175/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7094b71f08f3ab06b6592be00599c7f47922a51e",
+      "name": "MLB Champions",
+      "symbol": "MLBC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/176/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x50100005a59a916627481b5443512b8015bce41e",
+      "name": "89 seconds Atomized",
+      "symbol": "89SA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/177/256x256.png"
+    },
+    {
       "chainId": 1,
       "address": "0x5ce188b44266c7b4bbc67afa3d16b2eb24ed1065",
+      "name": "uwucrew",
       "symbol": "UWU",
-      "name": "Uwucrew",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/179/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xd89b16331f39ab3878daf395052851d3ac8cf3cd",
-      "symbol": "COVEN",
-      "name": "Crypto Coven",
+      "address": "0xa15f6e2b82050728d27a2c66223140282c623ca8",
+      "name": "HypeHippos",
+      "symbol": "HIPPO",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/333/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/180/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xdB2FC08aAd83627DD92532094AE44203283F2810",
-      "symbol": "FVCKA",
-      "name": "FVCK_AVATAR",
+      "address": "0x991266869bb7ba6f0b9dc9564b6792264d46fca9",
+      "name": "Axolittles",
+      "symbol": "AXO",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/424/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/181/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xda6e1225a0241c0fdc2e912bd76d70056bc8ac72",
-      "symbol": "FROYO",
-      "name": "FroyoKittens",
+      "address": "0x4542301fc134dcb92d8464b050d830415214335e",
+      "name": "Raccoon Mafia",
+      "symbol": "RMAFIA",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/428/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/182/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xb603b3fc4b5ad885e26298b7862bb6074dff32a9",
-      "symbol": "LIL",
-      "name": "Lil Pudgys",
+      "address": "0xebd9dc65c723cadc0ee4ee5a8013ddd3db98f250",
+      "name": "Fang Gang",
+      "symbol": "FANG",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/434/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/183/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xd3ad2b0a53cce2ebe6edd818c5d651806f638d47",
-      "symbol": "LION",
-      "name": "Lucky Lion Club",
+      "address": "0xac156a935d8a829d7005b8e1d73540806d7b303f",
+      "name": "GRAVEL",
+      "symbol": "GRAVEL",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/445/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/185/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x159aaf748fc07eb21aa9726e2c53ca271fc62211",
-      "symbol": "EIGHT",
-      "name": "Eightbit.me",
+      "address": "0x13f98f4cc80b32d328cb9802cdf0570aa925bc27",
+      "name": "Ethereans Official",
+      "symbol": "ETHS",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/456/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/186/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xee22e8cbff46dc51f932aac2a34745c4f4a26c28",
-      "symbol": "CRECO",
-      "name": "Crecodiles",
+      "address": "0x219cab58ff00399154410364e8f36cdd38227721",
+      "name": "ROO CREW",
+      "symbol": "ROO",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/470/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/187/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x4fa9e6eb2c576ce92cf474358f40b0a3be44ea32",
-      "symbol": "TINY",
-      "name": "tiny dinos (eth)",
+      "address": "0x1999a92711cf8815b7f6b07bd34b4287d853cfba",
+      "name": "CrypToadz by GREMPLIN",
+      "symbol": "TOADZ",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/462/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/190/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xa9a96c4eefdfdf7f3a9b8fe6fe31697101b4b0aa",
-      "symbol": "SBSH",
-      "name": "Shiboshis",
+      "address": "0xe8e611d56297adbe1c1c0683261be58e6e4880a2",
+      "name": "CryptoDickbutts",
+      "symbol": "BUTT",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/475/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/191/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x5f2f947544cb7d4fd5c62215f59ad8dab348358e",
-      "symbol": "FELLAZ",
-      "name": "Deadfellaz",
+      "address": "0x92425a88c18ced9cf3a1b9f686e4ceb36e35c7a4",
+      "name": "Bored Mummy Baby Waking Up",
+      "symbol": "BMBWU",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/476/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/192/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xc0d922b92b35c7b3f1a5311875e4716c7d913a55",
-      "symbol": "SMOWL",
-      "name": "SMOWL",
+      "address": "0x25b539b1c179fbe2af92abdfdc7e152cbc97addc",
+      "name": "INCOOOM GENESIS",
+      "symbol": "COOOM",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/464/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/194/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xe218a21d03dea706d114d9c4490950375f3b7c05",
-      "symbol": "WARRIOR",
-      "name": "Forgotten Runes Warriors Guild",
+      "address": "0xc016e4b42f80050bbf1d6244c6adbd0b10fe93c5",
+      "name": "Monster Blocks",
+      "symbol": "MONSTR",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/479/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/196/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x983bca9885d926a785c58a8d05a8f871d059b728",
-      "symbol": "GUYS",
-      "name": "Good Guys",
+      "address": "0x9e797872f9b4b520530e59faff0fe7f610c44120",
+      "name": "Lockdown Lemmings",
+      "symbol": "LEM",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/486/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/199/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x1e537e2998665c8a3036ecd9fe26a3910bb89f9e",
-      "symbol": "ASHARK",
-      "name": "Alpha Shark",
+      "address": "0xf88e8bad7ee587e8b574ecb5ce2ce9ab0a7e6295",
+      "name": "PILL",
+      "symbol": "PIL",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/478/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/202/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x929d96baf9025f0c54bc6d16c40f86f6dc90ab6c",
-      "symbol": "CBS",
-      "name": "CyberBrokers",
+      "address": "0x7bce962aaa72d561d71b1a89168d07041249755d",
+      "name": "The Glitches",
+      "symbol": "GLITCH",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/482/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/203/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xea23aff1724fe14c38be4f4493f456cac1afec0e",
-      "symbol": "GOBLIN",
-      "name": "GOBLINTOWN",
+      "address": "0xaae62daebf70d4fcf5797b1f93d2bab90341b7b2",
+      "name": "Chibi Apes",
+      "symbol": "CHIBI",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/490/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/204/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x2a1e7893f1d2d72555409d9d1bd28e3619f7ca4d",
-      "symbol": "CRXR",
-      "name": "Chain Runners XR",
+      "address": "0x1e23fb8bd851cc2a341428c0b10e65d49987d744",
+      "name": "INCOOOM GENESIS GOLD",
+      "symbol": "GCOOOM",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/496/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/205/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x6ac3900a35f492715eb6f94242d5318e8951bdfc",
-      "symbol": "GAWDS",
-      "name": "Gawds",
+      "address": "0x4884190c0e2d99afc1a5fe4d61faab955d7a4cdf",
+      "name": "AfroDroids",
+      "symbol": "DROID",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/498/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/206/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xae5d1aae108a169b1abe93d6d9d3faea60a74e31",
-      "symbol": "CHIMP",
-      "name": "Chimpers",
+      "address": "0x9042195c2d28b0331dfe1e2d75c4aaaf810d2106",
+      "name": "Primate Social Society",
+      "symbol": "PSS",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/497/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/207/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xc1cdfedd7b867427bfce398fe74ead11e90fc4f8",
-      "symbol": "SO",
-      "name": "Significant Others",
+      "address": "0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5",
+      "name": "Genesis Mana",
+      "symbol": "MANA",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/500/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/209/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x29a14d7954f4f233eb6ad772c49553c78901963e",
-      "symbol": "WASSIE",
-      "name": "Wassies by Wassies",
+      "address": "0xf4bdee03dbe9b0e154d6eb6ec5571e0ec5e2679b",
+      "name": "Crypto Venetians",
+      "symbol": "BRTCV",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/504/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/210/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x6047e101aaa9ab9b02fe5cbc1dd03c2c7c8516be",
-      "symbol": "AURA",
-      "name": "milady aura",
+      "address": "0x0afed7d7b0234310c8a22bdc8417701654154c2b",
+      "name": "VOID - Visitors of Imma Degen",
+      "symbol": "VOID",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/527/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/211/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x94c9ceb2f9741230fad3a62781b27cc79a9460d4",
-      "symbol": "MAYC",
-      "name": "Mutant Ape Yacht Club",
+      "address": "0x67d65da2a678791152d33cdcf92ce3b2bb2beccd",
+      "name": "Ready Player Cat",
+      "symbol": "RPC",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/298/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/212/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xfc0247cdaabc166423915077b666fa3bb9d1ee4d",
-      "symbol": "OTHR",
-      "name": "Otherdeed",
+      "address": "0x8e45115181f8a01acca317a9af83707649cebfe0",
+      "name": "INCOOOM GENESIS PSYCHEDELIC",
+      "symbol": "PCOOOM",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/466/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/213/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
+      "chainId": 1,
+      "address": "0x5d9c1b6f2c865b02bd8f57978cd79fa7585f0e9b",
+      "name": "Incognito",
+      "symbol": "ICON",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/214/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3e17c329ab2f5d32a9d7a0b7356af4efcd75a5b",
+      "name": "NAH FUNGIBLE BONES",
+      "symbol": "NFB",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/217/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a7c58e7677c42bf129504eb1b6a931f598afd55",
+      "name": "Sockz",
+      "symbol": "SOCKZ",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/218/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0115bd305885999562d593c94328fe25190dbc90",
+      "name": "EtherGals",
+      "symbol": "ETHGAL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/220/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x71291f53683ecb6908c28d0632f9e211779ea82e",
+      "name": "Fatales",
+      "symbol": "FATAL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/221/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbabb543d300220458f1d5e9a8153cf7f62583d60",
+      "name": "Bad Bunnies",
+      "symbol": "BUN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/222/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x42c88f19edbd56d7f2b9014163491fda7b25051d",
+      "name": "AmeegosOfficialNFT",
+      "symbol": "AGOS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/224/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x805a96e740aedabe738d08de78746c9a801f0f89",
+      "name": "CryptoHoots",
+      "symbol": "HOOTS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/226/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c4cb6b87443cd8d273002257d3e13d1713df2b7",
+      "name": "Chibi Dinos",
+      "symbol": "DINOS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/227/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x67979e64584b0e1de0182526be995260d680ad31",
+      "name": "DAO Turtles",
+      "symbol": "DAOT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/233/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c484894fe1aaae696662943abc6cd7dd50807d3",
+      "name": "GOOP TROOP",
+      "symbol": "GOOP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/234/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b3b9dcc99f64e6d66c88d053fae44009b032b3e",
+      "name": "Gutter Cat Gang",
+      "symbol": "GCG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/235/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa79b1db8907fd89aaf17cb54fab919beccfb5254",
+      "name": "Gutter Rats",
+      "symbol": "GRATS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/236/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x73fa6886e5b641eb4944e44f124bbb41f85da2df",
+      "name": "Gutter Pigeons",
+      "symbol": "GBIRDS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/237/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbb95fe8945dcf0886b688417df2680a22b99dce",
+      "name": "Gutter Dogs",
+      "symbol": "GDOGS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/238/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfd2087bf08ac28749a605bb3a9b8bcda3a3151b6",
+      "name": "Winter Bears",
+      "symbol": "BEAR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/239/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ba858acd03bec498d1a99b434e29ce4e0381234",
+      "name": "Outlaw Gals MC",
+      "symbol": "GAL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/240/256x256.png"
+    },
+    {
       "chainId": 1,
       "address": "0xe97e496e8494232ee128c1a8cae0b2b7936f3caa",
-      "symbol": "CURIO",
       "name": "Curio Cards",
+      "symbol": "CURIO",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/241/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x18222a762bf67024193de25e1cdc7aa6e614c695",
-      "symbol": "LIL",
-      "name": "Lil Nouns",
+      "address": "0xdddd22674a285a58125a4579d2b7fed1ed4ef8e0",
+      "name": "Bear Market Bears",
+      "symbol": "BMB",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/558/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/243/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xdf7a2593a70ff1e69b5a20644ae848558a2f7c86",
-      "symbol": "MFER",
-      "name": "mfers",
+      "address": "0x377e54f25459a3e53d7174a6fc1a0ad4d0090d63",
+      "name": "Mighty baby Dragons",
+      "symbol": "DRAGON",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/306/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/244/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x2034437801b62ede275210f76e2d4e77d0198bff",
-      "symbol": "ROO",
-      "name": "Roo Troop",
+      "address": "0x76c47b2fb6a73c23c2252cf7b901e6be50946dd2",
+      "name": "Super Shiba Club",
+      "symbol": "SSC",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/312/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/245/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xa8b42c82a628dc43c2c2285205313e5106ea2853",
-      "symbol": "MCAT17",
-      "name": "MoonCats2017",
+      "address": "0x31da07eef287e2644fdb149a9214d4ada4cfc776",
+      "name": "Bear Market Bears",
+      "symbol": "MHONEY",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/451/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/247/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xf373a10d21cc4a9f84421c69ec2d9528b6162012",
-      "symbol": "KGF",
-      "name": "Killer GF",
+      "address": "0x9f042ccce032e22221dff3fbc2a470dbea8e2b16",
+      "name": "CryptoFlyz",
+      "symbol": "FLYZ",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/341/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/248/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
+      "chainId": 1,
+      "address": "0xaa2d6a4605acfa6e0246f04a7be3293dcc8c44bb",
+      "name": "Strawberries",
+      "symbol": "STRBRY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/249/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xff5768a0054eb456140270d0480290a67ec7ff28",
+      "name": "NinjaToadz",
+      "symbol": "NTOADZ",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/250/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f131c4dad4be81683abb966b4de05a549144443",
+      "name": "Doodles",
+      "symbol": "DOODLE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/251/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7cf1fe11c0f800ff202eb16f973e722879dedf7e",
+      "name": "Dark Horizon",
+      "symbol": "HORIZON",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/252/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b935a387a6d5d1e153d6caa427cee7226839ee2",
+      "name": "Funky Monkey Frat House",
+      "symbol": "FMFH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/254/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a84cb84603d045efc7c09c03c4a179145094927",
+      "name": "ExpansionPunks",
+      "symbol": "XPUNK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/255/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7b7db56482722f641ff05b8eaa5443da63b4e98",
+      "name": "HypeBlocks",
+      "symbol": "HYPE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/256/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fa25d252d442d5949466736d4a634978f61d482",
+      "name": "ALPACADABRAZ",
+      "symbol": "PACA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/257/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x19980646f562f052ceaccc1a26c8d547d9444534",
+      "name": "LOSTBOY",
+      "symbol": "LOST",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/258/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x210f4a59097c5e10ec67db9b03cf35332a9aa0cf",
+      "name": "Adam Bomb Squad",
+      "symbol": "BOMB",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/259/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9db9c3c9b729da52340183b75031ed6b9b0b535e",
+      "name": "Ape Only Island",
+      "symbol": "ISLAND",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/261/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x18255f76a9efd79f39e13c9da84922946f37e3ce",
+      "name": "Tiles Blocks",
+      "symbol": "BLOCK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/262/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3f409da529cc9a1376934f14c5e36cd02c9135a6",
+      "name": "OG:Crystals",
+      "symbol": "OGC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/263/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b5728669f1ff5bd14047d097ccdf0aac1cb25f7",
+      "name": "Etholvants",
+      "symbol": "ETHOLV",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/264/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x50326f349787128102852645432af908c4b34691",
+      "name": "Spectral Skellies",
+      "symbol": "SKELLIE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/265/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0a776842783488e2b4e1277e98c05923874bfa7d",
+      "name": "MekaVerse",
+      "symbol": "MEKA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/268/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e5f6e67099529557f335be9e2333d90dce0861b",
+      "name": "RareBunniClub",
+      "symbol": "RBC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/269/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d71a64e8c8270116315709f08660360b1beacf7",
+      "name": "Morphys",
+      "symbol": "MORPH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/270/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4251ea8a5e71d3f10e3dc224f073bc8a61b4bcd",
+      "name": "Filaments",
+      "symbol": "FLMTS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/272/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xeb3c1f8aff47c5fb08f4eb813ad04a651fbf7543",
+      "name": "KING'S GALA",
+      "symbol": "KINGS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/273/256x256.png"
+    },
+    {
       "chainId": 1,
       "address": "0x74d84d49b3b2f5170a82ecab06cf8629e5239efb",
-      "symbol": "GENMINT",
       "name": "Gen.Art Membership",
+      "symbol": "GENMINT",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/274/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x1f104e7b11a6f5b4a15a438e0a107954afd7769f",
-      "symbol": "GALS",
-      "name": "Shinsei Galverse",
+      "address": "0x20ec84c46392cb3ae6a7925be92f597fcc7d88f9",
+      "name": "SuperPool",
+      "symbol": "SUPER",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/438/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/277/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xdc9525a6e02c8697558a848b883c3e4cff4eec0d",
-      "symbol": "EDEN",
-      "name": "Edenhorde",
+      "address": "0xdd785d61aa140afaa7c4c69166b4ec1c09d8f37c",
+      "name": "Dreamer Alpies",
+      "symbol": "ALPIES",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/418/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/278/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x69ec436a1eaefef15e75543969f800ec2afc4490",
-      "symbol": "STARZ",
-      "name": "Allstarz",
+      "address": "0xd7f6b167414593ef9d5a248ce6622df9531f67dc",
+      "name": "Delectables by Foodmasku",
+      "symbol": "FOOD",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/543/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/279/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
+      "chainId": 1,
+      "address": "0x70a314daf0f23adc4a5166d77d14b4b0fe08caab",
+      "name": "Skullx",
+      "symbol": "SKULL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/280/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x92637df9cb3dff55c3e193bc49073db7d3e1d5aa",
+      "name": "BitcoinBillionaires",
+      "symbol": "BB",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/281/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x056187e89d8a22cda88698a75448aa8ff8a5bda4",
+      "name": "Uncool Cats",
+      "symbol": "UNCOOL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/284/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe958598bfafbea2d7692b3dc932498704e11d20a",
+      "name": "Caboodles",
+      "symbol": "KIT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/285/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x03f80ed11125f72537b8ad25855f907f5ef53c65",
+      "name": "HoneyBadger by Robness 734 ttl",
+      "symbol": "HONEYB",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/286/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4531d09c51922094cd140ee24da59b060a0ef795",
+      "name": "SPAM by JayDelay 2019 108 ttl",
+      "symbol": "SPAM",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/287/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x33d3a202c31a448a877cf3d1ca57610266700a4e",
+      "name": "The n project",
+      "symbol": "N",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/288/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6336d88238075052eb79197c3283e579f0156e48",
+      "name": "Furballs",
+      "symbol": "FUR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/289/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa9e64bd15dba7bd119dfdd7ac858a4deaf674bfa",
+      "name": "Dead Devil Society",
+      "symbol": "DDS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/290/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x950f87e3561e56e961a00de273bbb376bc66d7ba",
+      "name": "KnownOrigin",
+      "symbol": "KODAV",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/292/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xab55ba6f172b74a7da7326f0a816d4e0b9ee16f2",
+      "name": "NOUNPUNK",
+      "symbol": "NOUNPUNK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/293/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x811730013e801dadd5d1de0542c57aa110af6643",
+      "name": "PixelMap",
+      "symbol": "PXLMAP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/296/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x00c4a73f10b05228c64e971cf81ae84426a64780",
+      "name": "MineablePunks",
+      "symbol": "MPUNK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/297/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x94c9ceb2f9741230fad3a62781b27cc79a9460d4",
+      "name": "Mutant Ape Yacht Club",
+      "symbol": "MAYC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/298/256x256.png"
+    },
+    {
       "chainId": 1,
       "address": "0x7269c9aaa5ed95f0cc9dc15ff19a4596308c889c",
-      "symbol": "MORIE",
       "name": "CryptoMories",
+      "symbol": "MORIE",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/299/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
+      "chainId": 1,
+      "address": "0xdd64174010e6593795daceb6333045136decdddf",
+      "name": "TRASHPUNKS",
+      "symbol": "TRASH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/303/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2911dbd78548e3097f7523bad42622c77d31545b",
+      "name": "CYBORGS",
+      "symbol": "CBC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/304/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4009d8eda6f40f549dfc10f33f56619b9754c90",
+      "name": "Phunky Ape Yacht Club",
+      "symbol": "PAYC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/305/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdf7a2593a70ff1e69b5a20644ae848558a2f7c86",
+      "name": "mfers",
+      "symbol": "MFER",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/306/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x404e57e343556158f1bef099069bc59fd35cc940",
+      "name": "xDai Tigers from Gnosis Chain",
+      "symbol": "XDT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/308/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d34aac34be3c1b4928e1574c1263ada6603318d",
+      "name": "PHAYC",
+      "symbol": "PHAYC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/310/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2034437801b62ede275210f76e2d4e77d0198bff",
+      "name": "Roo Troop",
+      "symbol": "ROO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/312/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9db0db8c4006a793df00caa6416b993a3ba90192",
+      "name": "Cool Ape Club",
+      "symbol": "CAC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/314/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c4d2aa807d085b85d6b2b139d10f40455732b1d",
+      "name": "Lazy Lions Bungalows",
+      "symbol": "BUNGA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/315/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdca02198656a70982fa917cfad1f95530c7fdbaf",
+      "name": "Flurks by Stonetoss",
+      "symbol": "FLURK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/316/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x79e43c44d5509d00d584000c0a6b1e9e62609f56",
+      "name": "Regulars",
+      "symbol": "REGULR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/317/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfd88f051cd53cce8999473011d289961a5cce5b3",
+      "name": "Drawtoons",
+      "symbol": "CRAYON",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/318/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8b8fe22fa958b4b7b1279ca9ac11f9036586a3d",
+      "name": "Standametti",
+      "symbol": "STANDA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/319/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdee7bd44f02189fb0a8cc9bebf95fad933a8ccd9",
+      "name": "Koala Intelligence Agency",
+      "symbol": "KIA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/321/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb97d3e98a1c607aae7784cc2ddea3c77759e82c6",
+      "name": "KaijuKingz",
+      "symbol": "KINGZ",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/323/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b3486487ac6ef1e9cd126160dfdbc322a7cba2b",
+      "name": "Pixel Doods",
+      "symbol": "PXD",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/326/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x35f53755ba9bc9160d31ffe86bcaa9b1d187ba71",
+      "name": "Qubits",
+      "symbol": "QUBIT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/327/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xcc173076d0f082651169fdf3f6d02fc0daab0976",
+      "name": "FOMO MOFO",
+      "symbol": "FOMO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/328/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x98d1ee38fb137ccd42f46b52b44d5f2e36d4a66c",
+      "name": "Capsule House",
+      "symbol": "CAP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/332/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd89b16331f39ab3878daf395052851d3ac8cf3cd",
+      "name": "Crypto Coven",
+      "symbol": "COVEN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/333/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3579fb82f7c22f19d62b170b482766d0d11dbd5e",
+      "name": "SemiSupers",
+      "symbol": "SUPERS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/334/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa66734d48d564e4e1c016c8d2ea2e9131b41c1ad",
+      "name": "Loot (for Adventurers)",
+      "symbol": "LOOT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/335/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6be6fc85a0a7963909ef4572fae4df1ef100100d",
+      "name": "Chubbiverse Frens",
+      "symbol": "CHUBBI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/337/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3870edfd239cbf769b87318d8791d74dd9e36e77",
+      "name": "Foundation Collection [0x3B3]",
+      "symbol": "FND",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/339/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8a1edb81b45b8fb8f5049f957facce779a45d22",
+      "name": "Azuki",
+      "symbol": "AZUKI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/340/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf373a10d21cc4a9f84421c69ec2d9528b6162012",
+      "name": "Killer GF",
+      "symbol": "KGF",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/341/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd18a0085989b67788e35fc1f8a439707a7639d46",
+      "name": "Rare Pizzas",
+      "symbol": "AZZIP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/342/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4af337126bf510179e7816a064a86b6ae3d449e0",
+      "name": "ExpansionPhunks",
+      "symbol": "XPHUNK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/343/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe45a3d08a98f64230fc103e4ea09536bc1de3ca",
+      "name": "CryptoTigVags",
+      "symbol": "TITS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/344/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f09f2a8c3f21a2beb5c3145c626a3405c397172",
+      "name": "V3 Punks",
+      "symbol": "PUNKER",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/345/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xadee217d28dafded3d0c2fdc821d9aa75b3f8712",
+      "name": "MetaGeckos Genesis",
+      "symbol": "MGEK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/346/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d2665089d7030ac0d8abdd2d179e14df9a7cfb5",
+      "name": "Untamed Elephants",
+      "symbol": "PHANTS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/347/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f97670b863defb863a6865fcca3f345f5e6eb67",
+      "name": "MOSHI",
+      "symbol": "MOSHI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/348/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6ff093dd03cb980115e27694b927435dcc71962f",
+      "name": "omgkirby GENESIS",
+      "symbol": "OMGK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/349/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9a36081b641314a75cc030038428c41934f518c",
+      "name": "Apes In Space",
+      "symbol": "AIS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/350/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3483a25f884e5427c65486d0e73dbb4018bfe039",
+      "name": "test",
+      "symbol": "TEST",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/351/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0832de2df6a4cbd9bb7962ddb2d0e87a325fc4b2",
+      "name": "LittleFrens",
+      "symbol": "FRENS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/352/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2b9ccfed8c39afeee0450cb098d9d0f9a6a0299",
+      "name": "CryptoDads",
+      "symbol": "CDAD",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/354/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9300e4d9aa61d0445efa6c350cd804e044a1e63f",
+      "name": "EtherTulips",
+      "symbol": "TULIP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/355/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xec3d5772471c7efcb59a4478d4ae09060dad0591",
+      "name": "Async Art Blueprints",
+      "symbol": "BPRINT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/361/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xac59badc3487bdc3c077a9061f4c9c9871390153",
+      "name": "Song A Day",
+      "symbol": "SONG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/362/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x58ac163ad6726249e655cb100f8bb7ce0357cc5b",
+      "name": "Bears On The Block",
+      "symbol": "BOTB",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/363/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x415282ac4420d3c3c2d4111f932bc71d6d385fd0",
+      "name": "PhantaBear",
+      "symbol": "BEAR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/365/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9d5dc8697b28f54c87c0ff580b91a315faffd42",
+      "name": "Pork1984",
+      "symbol": "PORK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/366/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xea1d9ff9ca23d72ac3e8e2de2b91a161b8b9f732",
+      "name": "ThorGuards",
+      "symbol": "THORG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/367/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfb5d1a0d4c728ab9aa80f926bce087a760b4cbcb",
+      "name": "Planktoons",
+      "symbol": "PLANK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/368/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x00d0a61c5cb78f236a715fe08a6bb4a72514f460",
+      "name": "R0N1 World",
+      "symbol": "RONI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/370/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d292afdcc5b8ba45d461afccdf53bc338dd566e",
+      "name": "mpher",
+      "symbol": "MPHER",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/371/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e1e697e597052cdeb768159564af4bc6917dc81",
+      "name": "Ape Gang",
+      "symbol": "AGANG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/372/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e050b2b7adb2cae5e8593e280ed5582953f9ad2",
+      "name": "Tubby Cats",
+      "symbol": "TUBBY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/373/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc88f0f45bf1fc9c77a54a81b8faf380d2456168e",
+      "name": "Baby Ghosts",
+      "symbol": "BBGST",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/374/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1cf4033841bfb456eb7490b34df31ec23b04b88b",
+      "name": "v4apes",
+      "symbol": "VAP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/376/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fb004f6585ea1dbc48cd17c64a61ae26ea76a33",
+      "name": "Surf Dreamz",
+      "symbol": "SURF",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/378/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x011671956844f31620bb8b9709f32230186a307a",
+      "name": "Turtle Town",
+      "symbol": "TRTL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/379/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3f27fd0ae3c84911513bebcd2d812575bd9c3aed",
+      "name": "ShadesOfYou",
+      "symbol": "SOY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/380/256x256.png"
+    },
+    {
       "chainId": 1,
       "address": "0x6ec24985813a985e1b20041d30e209db38ca1e1e",
-      "symbol": "MICE",
       "name": "Anonymice",
+      "symbol": "MICE",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/383/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x54abc3f8b584d6de4af280aabba7a1a70e2cc57c",
-      "symbol": "RIG",
-      "name": "Tableland Rigs",
+      "address": "0xdf589fc5d4fbc44eb437833d4e300b1de4ae96a9",
+      "name": "Baby Anonymice",
+      "symbol": "BBMICE",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/612/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/384/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xaf87e5f42fc751aef8b068b3b873dae8e4bd3e39",
-      "symbol": "BFF",
-      "name": "Barts Farm Frens",
+      "address": "0x171fb81f102066e1ff575b1310a9dbee1b0754d5",
+      "name": "ThirdEyeApesv2",
+      "symbol": "TES",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/617/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/385/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x1d37cb1be7c7c8c0fc7b24580668eedceca93dcf",
-      "symbol": "PAL",
-      "name": "WonderPals",
+      "address": "0x0b9a59d28869e6e52ae86c1289bc39f63ba92d50",
+      "name": "Chibi Galaxy",
+      "symbol": "GALAXY",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/622/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/386/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xece3e14924eecb79aadc286839a86c0d54718d95",
-      "symbol": "BARREN",
-      "name": "The Barren Court",
+      "address": "0xac8477812146eb215ff9ec4a0198973300ac4bd2",
+      "name": "mannys.game",
+      "symbol": "MANNYS",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/626/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/387/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x3f5f8153004e081cb03c64324034b7578ac92a7e",
-      "symbol": "MIR",
-      "name": "Milady Rave",
+      "address": "0x36abffa6255507618e9eb8d707e9fc6bd5457d4c",
+      "name": "CryptoCelestials",
+      "symbol": "GOWSA",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/633/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/390/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xe118b7e19a2e96c90765ef526b7ada966df7e713",
-      "symbol": "FRINGE",
-      "name": "Fringe Drifters",
+      "address": "0x0b211cde9e2420b97abdf1ecd5b063be97543fe6",
+      "name": "ToastPunk Genesis",
+      "symbol": "TPGEN",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/610/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/391/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x614a0c75b1574748634dea378a7044f614b6fd9d",
-      "symbol": "NNNN",
-      "name": "10K Club ENS",
+      "address": "0x227c7df69d3ed1ae7574a1a7685fded90292eb48",
+      "name": "Milady Maker",
+      "symbol": "MILADY",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/630/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/392/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x9dd2d60060de7bd524c871751d34b9e1bae6e63f",
-      "symbol": "TORI",
-      "name": "ToriZero",
+      "address": "0x2c773492b6292a060f99e28f1c08501ed8b30715",
+      "name": "Renegade Punks",
+      "symbol": "REPUNK",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/627/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/397/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x4a024f59814a12036cc07532ff11f59caff8b0b8",
-      "symbol": "MAKERS",
-      "name": "MakersPlace Vault",
+      "address": "0x0cb8af226d28116f01c85324b0d920a6128178fb",
+      "name": "J48BAFORMS",
+      "symbol": "JABBA",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/645/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/399/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xb1af4e90b1d179e1ad759b84344c8a5126fe582e",
-      "symbol": "STASH",
-      "name": "Toy Stash",
+      "address": "0x9ee7c611f1ed588363ef18d90543349448ec4c6a",
+      "name": "Air Yeezy 1 Prototype #0",
+      "symbol": "AIRYZY",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/648/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/400/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xf357c8270d5eb35655622c87dd76d182833562c4",
-      "symbol": "WEBA",
-      "name": "Webaverse Genesis Pass",
+      "address": "0x167c0a0b9aeb4febe50e965db6293bd886c91322",
+      "name": "MINI SUPERS",
+      "symbol": "MINI",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/649/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/401/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x6663a45e347c2fe6b8ab18a3cf880f139c242695",
-      "symbol": "WIZE",
-      "name": "Wize Fellaz",
+      "address": "0xfb8f579548cae10d7f021f6e0c25852c5be71cb7",
+      "name": "Monaverse",
+      "symbol": "MONA",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/655/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/402/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x4fae03385dcf5518dd43c03c2f963092c89de33c",
-      "symbol": "PHUNKY",
-      "name": "V3Phunks",
+      "address": "0x332f4f6a1b871f2572958d733d5df77f12b20c08",
+      "name": "Lil Baby Doodles X",
+      "symbol": "LBDX",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/656/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/403/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x97a495e145fa73fd775fd7975172a74354a59e44",
-      "symbol": "UNF",
-      "name": "Unfudables",
+      "address": "0x88ada4bcaac711b36ccf455cba28950a4c6fbd52",
+      "name": "GUSHIES",
+      "symbol": "GUSHIE",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/657/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/404/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x57cf2d365c91983f026bc4e00e8033b912162317",
-      "symbol": "POND",
-      "name": "ribbitsnft",
+      "address": "0x32920ae0696c419338c928f4fff60a1b808bd3ea",
+      "name": "The Official KronicKatz",
+      "symbol": "KRONIC",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/683/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/405/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x4d3f0e89b46c0f9d7e3ce80bc577351d3dfe4e51",
-      "symbol": "MGDPHK",
-      "name": "MergedPhunks",
+      "address": "0x281758bef01b1226295eadd164b13bae020f7c27",
+      "name": "MAX PAIN AND FRENS BY XCOPY",
+      "symbol": "MAXPAIN",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/681/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/407/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0xbc91a632e78db7c74508ea26e91b266aa235f051",
-      "symbol": "PXLDY",
-      "name": "Pixelady Maker",
+      "address": "0x68060cd4acf7f82c5ced694ee786b8bc0693424f",
+      "name": "OKPC",
+      "symbol": "OKPC",
       "decimals": 18,
-      "logoURI": "https://assets.nftx.io/vaults-v2/679/256x256.png"
+      "logoURI": "https://assets.nftx.io/vaults-v2/408/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x9332Ad7F5a8B75024662588b7eEe450C513ef9ac",
-      "symbol": "SAUDIS",
+      "address": "0x03b1a9e8bc6cbe4beaeeac277a042a584fe0af59",
+      "name": "Goopdoods Vault",
+      "symbol": "GOOP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/411/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe094b124dbff6e6a1905c4ee1c8dd65a805eb7a5",
+      "name": "World of Women Galaxy",
+      "symbol": "WOWG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/414/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e61fdee7f89940199925ddb0d95b71a19dfb629",
+      "name": "The Seekers",
+      "symbol": "SEEK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/415/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7663c0e072d91bb391be414586c31359ecdfee06",
+      "name": "MINDFULLS",
+      "symbol": "MNDFLL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/416/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x606babc62ea4142ca839cb18e312297bedb12c27",
+      "name": "Baby Bricks",
+      "symbol": "BBRICK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/417/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdc9525a6e02c8697558a848b883c3e4cff4eec0d",
+      "name": "Edenhorde",
+      "symbol": "EDEN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/418/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xae4cceb87ec5cb90b06f94fe39d435b871ef967e",
+      "name": "Wandernauts",
+      "symbol": "NAUT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/419/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7e1ea1ed28ee96c69127e408ec5d9c3bb07e133",
+      "name": "Bulls on the Block Evolved",
+      "symbol": "BULL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/420/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bb901c959bc5bc148e5964d52ab9c05747f222c",
+      "name": "Super Yeti",
+      "symbol": "YETIS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/423/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdb2fc08aad83627dd92532094ae44203283f2810",
+      "name": "FVCK_AVATAR",
+      "symbol": "FVCKA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/424/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x91d365c949a0600638adfaed8081abd46fd83b30",
+      "name": "Cheddaz",
+      "symbol": "CHEDDA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/425/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4330b9b4313b682472804c39dc33636d11e14ab6",
+      "name": "Los Muertos",
+      "symbol": "MUER",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/426/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x055c4497506ee438c6f7a73a8750561d4a334712",
+      "name": "Rebel's Haunted Mansion",
+      "symbol": "REBEL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/427/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xda6e1225a0241c0fdc2e912bd76d70056bc8ac72",
+      "name": "FroyoKittens",
+      "symbol": "FROYO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/428/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfaa2e20473d8b132c0d8649afc56182b75f0fcbf",
+      "name": "fRiENDSiES",
+      "symbol": "FWY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/429/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7683fb13eaf69b4616559480fa260246b77a730d",
+      "name": "frankfrank",
+      "symbol": "FRANK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/430/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6759d6af2615d6bf0ce9bbd9ebad31b0fa5c87d0",
+      "name": "KREEPY CLUB",
+      "symbol": "KREEP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/431/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd21c77b4e51a6cca9582e3cdb452c8a0a439f6fa",
+      "name": "VaynerSports Pass (VSP)",
+      "symbol": "VSP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/432/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb603b3fc4b5ad885e26298b7862bb6074dff32a9",
+      "name": "Lil Pudgys",
+      "symbol": "LIL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/434/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4b0e353d6ff442f5839e2cb87bc69b8a16c9e98",
+      "name": "Gunslingers",
+      "symbol": "PEWPEW",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/435/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2647403d9fd062911975d2b34a9cc086c0406f57",
+      "name": "RUG.WTF",
+      "symbol": "RUG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/436/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xcde4f75bf93d9660682ba9e36aac7fc709de4efa",
+      "name": "Mito Fox Club",
+      "symbol": "MFC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/437/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f104e7b11a6f5b4a15a438e0a107954afd7769f",
+      "name": "Shinsei Galverse",
+      "symbol": "GALS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/438/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x24fd9bc8b2e984062f7e9a8abb5ca46a155c2c2f",
+      "name": "Moonbirds",
+      "symbol": "MONBIRD",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/440/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf7188fabc798d89eac5259fbb0bc9f3505430eaf",
+      "name": "GOATSOUP",
+      "symbol": "GSOUP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/442/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfc9a95101e7c4034989cddeb062e906d93ffc7a5",
+      "name": "ThePixelsInc",
+      "symbol": "PIXELS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/443/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9edde862c41c5f63c71fc95b614d1714246109db",
+      "name": "The Picaroons",
+      "symbol": "PICA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/444/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3ad2b0a53cce2ebe6edd818c5d651806f638d47",
+      "name": "Lucky Lion Club",
+      "symbol": "LION",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/445/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5218e702b73877724574384d967fefe357f432e",
+      "name": "Sad Girls Bar",
+      "symbol": "SGBAR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/447/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb361ca802caad6f783bcc5138a36101072997e64",
+      "name": "Girlies",
+      "symbol": "GIRLIE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/448/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c7cc359a029ee3ca7f80bb64e70d77c16630461",
+      "name": "Encryptas",
+      "symbol": "CRYPTA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/449/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e1f074bb8a6107466b22fed9e3ee5373564430a",
+      "name": "Panda Golf Squad",
+      "symbol": "PGSS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/450/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa8b42c82a628dc43c2c2285205313e5106ea2853",
+      "name": "MoonCats2017",
+      "symbol": "MCAT17",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/451/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb32c23bd37cf986daa4f145198ed31861d584057",
+      "name": "WhatTheFoxesv",
+      "symbol": "WTFOX",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/454/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x159aaf748fc07eb21aa9726e2c53ca271fc62211",
+      "name": "Eightbit.me",
+      "symbol": "EIGHT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/456/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1c4fd0dc4d14258d181dd8163b30bc09743054d",
+      "name": "Broadcasters NFT",
+      "symbol": "BROAD",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/457/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe6fe37ea704aa6ea4115f26744271b2887ba49cf",
+      "name": "Alien Ayame",
+      "symbol": "AYAME",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/460/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf43722fa6fe4499865d7e9c3566192ef1e74452",
+      "name": "Alien Ayame",
+      "symbol": "ATOM",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/461/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fa9e6eb2c576ce92cf474358f40b0a3be44ea32",
+      "name": "tiny dinos (eth)",
+      "symbol": "TINY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/462/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0d922b92b35c7b3f1a5311875e4716c7d913a55",
+      "name": "SMOWL",
+      "symbol": "SMOWL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/464/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x24803b90c97ecfe82caf8c0545b2a0d12c76db44",
+      "name": "THE BANKSTERS 1500 ttl",
+      "symbol": "BANKS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/465/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfc0247cdaabc166423915077b666fa3bb9d1ee4d",
+      "name": "Otherdeed",
+      "symbol": "OTHR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/466/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0aec1fd8923df8a782764cd1ede8416854d97f68",
+      "name": "Otherdeed",
+      "symbol": "DEED",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/467/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd34d9ad163079bb9ef1ed89987d1d1a651026f93",
+      "name": "Monster Satoshibles",
+      "symbol": "MONSTR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/468/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7ade688c45e9a86bf5c5f892d86a66c131ec8dab",
+      "name": "Moonbirds At Home",
+      "symbol": "MOONAH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/469/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xee22e8cbff46dc51f932aac2a34745c4f4a26c28",
+      "name": "Crecodiles",
+      "symbol": "CRECO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/470/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xca275cf3b5c9cd4614b56c136f9e276e31aca10e",
+      "name": "Crookz by NIXON",
+      "symbol": "CRKZ",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/473/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f2f947544cb7d4fd5c62215f59ad8dab348358e",
+      "name": "Deadfellaz",
+      "symbol": "FELLAZ",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/476/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6af729685f5d194b2de85ce42dc4bf4b1e43dc6a",
+      "name": "CREYZIES",
+      "symbol": "CREYZ",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/477/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e537e2998665c8a3036ecd9fe26a3910bb89f9e",
+      "name": "Alpha Shark",
+      "symbol": "ASHARK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/478/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe218a21d03dea706d114d9c4490950375f3b7c05",
+      "name": "Forgotten Runes Warriors Guild",
+      "symbol": "WARRIOR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/479/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x05ec119d78d197ceee5ffb78e0e6aa4a9a1b416a",
+      "name": "Pidgies: Spy Pidgies Yob Squab",
+      "symbol": "PIDGIE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/480/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8498b2528dd9f88ac2540eacbf9c38636a37dcb0",
+      "name": "I Like You, You're Weird",
+      "symbol": "ILYYW",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/481/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x929d96baf9025f0c54bc6d16c40f86f6dc90ab6c",
+      "name": "CyberBrokers",
+      "symbol": "CBS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/482/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b7f88c927aa1631425ee967ea97cbd59b68db09",
+      "name": "ruggedmfers",
+      "symbol": "RUGS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/483/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfaa8453d995e20c949dcecddaee73299b854744d",
+      "name": "PXN: Ghost Division",
+      "symbol": "PXN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/484/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x983bca9885d926a785c58a8d05a8f871d059b728",
+      "name": "Good Guys",
+      "symbol": "GUYS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/486/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0d897b371f4789bca950fc16835ea5d8c582658",
+      "name": "Gutter Clones",
+      "symbol": "CLONE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/489/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xea23aff1724fe14c38be4f4493f456cac1afec0e",
+      "name": "GOBLINTOWN",
+      "symbol": "GOBLIN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/490/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x60ded1044f512f346292ae7b195a43848b625af2",
+      "name": "Evoh: Llama Frens",
+      "symbol": "LLAMA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/491/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x062d78d1d3a218a7a54845608d5bb6ce065ff2a9",
+      "name": "Lil Nouns",
+      "symbol": "LNOUN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/492/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1576e77318b1b570f003e095d46c38319fb770b1",
+      "name": "Pixel goblintown",
+      "symbol": "PXLGOB",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/493/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a1e7893f1d2d72555409d9d1bd28e3619f7ca4d",
+      "name": "Chain Runners XR",
+      "symbol": "CRXR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/496/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xae5d1aae108a169b1abe93d6d9d3faea60a74e31",
+      "name": "Chimpers",
+      "symbol": "CHIMP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/497/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6ac3900a35f492715eb6f94242d5318e8951bdfc",
+      "name": "Gawds",
+      "symbol": "GAWDS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/498/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8bee639862d21d492f37e66b48b262ff35fe880f",
+      "name": "Ape Reunion",
+      "symbol": "APER",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/499/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1cdfedd7b867427bfce398fe74ead11e90fc4f8",
+      "name": "Significant Others",
+      "symbol": "SO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/500/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b602cc52d1fb9208dd0a23185d203142d2a09e1",
+      "name": "The Uncanny Country Club",
+      "symbol": "UCLUB",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/501/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9aa9508aa8a1a0df8efb9ed36c71a390248371c",
+      "name": "Martian Premier League",
+      "symbol": "MPL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/503/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x29a14d7954f4f233eb6ad772c49553c78901963e",
+      "name": "Wassies by Wassies ",
+      "symbol": "WASSIE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/504/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xee8db1b8bafcde36c0023919eb3adb543aa83303",
+      "name": "rich baby",
+      "symbol": "BABY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/505/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xff70cf0937146c0d768f25702627bf9125abb486",
+      "name": "Cupcats",
+      "symbol": "CUPS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/506/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfa0c8195859762a1448b9fac145b8531310cf6ab",
+      "name": "GOBLINIS",
+      "symbol": "GBLNI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/507/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe770493b2663004b356d3374ec23ea52f6c82ca6",
+      "name": "Bored Miladys",
+      "symbol": "BMILLY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/508/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x074e3093fc977f5736d49e1798494f34a79f3f9d",
+      "name": "Sakura Park",
+      "symbol": "SAKURA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/511/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf286ec125fb910ebec168809f6a0fe51055d47fd",
+      "name": "milAIdy maker",
+      "symbol": "LAIDY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/516/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0aa447ee74bb36e1e34a62f7ca783686702ba055",
+      "name": "EDDASwap",
+      "symbol": "EDDA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/519/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x87302898c1fa61d1f0bbf359d82221c648970121",
+      "name": "Elftown.wtf",
+      "symbol": "ELF",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/520/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fef6fc68f47d3c681968ff3f80534065eaf86b9",
+      "name": "Project Atmos",
+      "symbol": "ATMOS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/521/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6ef85df8fd2cb29dd958c94dde3644406d63d264",
+      "name": "Kiwami",
+      "symbol": "KIWAMI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/522/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x354a245505d47696023b510eab3233842b77614c",
+      "name": "Pixel Bubbies",
+      "symbol": "PIXBUB",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/525/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0222192fed7cd6510460329a9580425159c036b",
+      "name": "Cheebs NFT",
+      "symbol": "CHEEBS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/526/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6047e101aaa9ab9b02fe5cbc1dd03c2c7c8516be",
+      "name": "milady aura",
+      "symbol": "AURA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/527/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9400a03f3dac54a574531b50740ef5bf3abe9644",
+      "name": "Coven Cats",
+      "symbol": "CAT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/529/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1c56a717c2c0759ccb677199f0f7a8f9c60fdf7",
+      "name": "Binkies",
+      "symbol": "BINK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/530/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0615afaed869defe361600612c669ee9e943e5e4",
+      "name": "Metaminds",
+      "symbol": "META",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/531/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x108ce9da3b827f2992072c9eb1931e42fc7813d5",
+      "name": "DWARFTOWN",
+      "symbol": "DWARF",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/532/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5796ebbf5c7ac123fbe8b11b5d13d50d32ea3fc5",
+      "name": "Sonora Maker",
+      "symbol": "SNRM",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/533/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4865e69783848bb99f2899aaf42de5da37afaa2",
+      "name": "LEAVE ME ALONE",
+      "symbol": "LMA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/534/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbacaa9a22281a73d6b150c9dccad3c49ab886e13",
+      "name": "SpaceBoysNFT",
+      "symbol": "SPACEX",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/537/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x15cbf2ae3565157baa5c29df847ef685c78c5bb7",
+      "name": "Only One Pixel",
+      "symbol": "OOP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/539/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1561144a9d6f48730f8e72e379a6e1f6aa3c773d",
+      "name": "Entropes",
+      "symbol": "ENTRP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/540/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfd547b14f189af81be42c5053961dcfdfc9c03d0",
+      "name": "CryptoBurbsII",
+      "symbol": "BURBII",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/542/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x69ec436a1eaefef15e75543969f800ec2afc4490",
+      "name": "Allstarz",
+      "symbol": "STARZ",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/543/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb987a6197043ee356658f787504004e4591b7a81",
+      "name": "Bord ape Yacht #50",
+      "symbol": "BORD",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/544/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4bb504886af85830c9f78090b78780cc8f4d5fc",
+      "name": "JailTime",
+      "symbol": "JAIL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/545/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8cc9b5406049d2b66106bb39c5047666e50f06fe",
+      "name": "PokeGAN",
+      "symbol": "KOPE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/546/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0a40c73df74b2c120df74ab06ee1d7aeb468822",
+      "name": "Spooks",
+      "symbol": "SPOOKS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/547/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa694618c40c45a609cdb766e00a0ad5dc40e22a6",
+      "name": "RR/BAYC",
+      "symbol": "RRBAYC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/551/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd2e3a66507e94190e3b1521a189ad821c8c3006",
+      "name": "redacted",
+      "symbol": "redact",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/552/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c62ed0215e279ba82704912e70a05824ce9495c",
+      "name": "ZORBS by ZORA",
+      "symbol": "ZORB",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/553/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9158507c968ec12fef480b84ddaf42bebe316d8",
+      "name": "Aiko Virtual",
+      "symbol": "AIKO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/554/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdec9d8d42703938a8ff38317bb4cb004900707a9",
+      "name": "Moonturtlez",
+      "symbol": "TURTLZ",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/556/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa525dbdbf2841d7ac59c77a7eec07d7343b70425",
+      "name": "Fear City",
+      "symbol": "FEAR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/557/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x18222a762bf67024193de25e1cdc7aa6e614c695",
+      "name": "Lil Nouns",
+      "symbol": "LIL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/558/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3605f9e7b830094e5f47cdb6245f2dc8f47750a5",
+      "name": "Good Minds",
+      "symbol": "GM",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/560/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x15b479fd41749d5e4ad7ee06f55c7360e54052e5",
+      "name": "PokeGan",
+      "symbol": "KOPE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/561/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x111f1048ad98f78d56f52555b1423a2c1ef7e0eb",
+      "name": "PuzlPunk Parts",
+      "symbol": "PZLPRT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/562/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x10647046e7fdee076c89d171876cc015ba63a41d",
+      "name": "Based Pixels",
+      "symbol": "PIXELS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/563/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x822d6be95945dc2fcbb8daa3f9962c9501264e32",
+      "name": "BunnyBats",
+      "symbol": "BNYBAT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/564/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xee72462df4151eb585f356eddbba5dc2dc0517f9",
+      "name": "DourDarcel",
+      "symbol": "EGG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/565/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7d4127f098604e5e0aa2e1f6f1f96c1e03f5ade",
+      "name": "Pepe Liberation Army",
+      "symbol": "PLA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/566/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x04081cc3cb05b438fccfecfe20645d0c48d586e3",
+      "name": "Darcels Eggdrop",
+      "symbol": "EGGBOX",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/567/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9fda9b09af00305aacc32e28cfb2a055f9e04bf0",
+      "name": "Cyber Bandits by Michael Reeder",
+      "symbol": "BANDIT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/568/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1a0a5fec01978b279c562ffa4610ff083de97cd",
+      "name": "DirtBirds.wtf",
+      "symbol": "DBS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/569/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x859f9c9e33b51fcb523e973cf39141e3b31b71c2",
+      "name": "GLICPIXXX V2",
+      "symbol": "GLIC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/570/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x16e3550ec29942cefdc2be3fe5598078a1ae3744",
+      "name": "Eyes of Fashion",
+      "symbol": "EOF",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/571/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9332ad7f5a8b75024662588b7eee450c513ef9ac",
       "name": "THE SAUDIS",
+      "symbol": "SAUDIS",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/572/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
       "address": "0xa6f080339ccd1ad852c9c14f468a09e4193e71be",
-      "symbol": "KNOWN",
       "name": "Vintage KnownOrigin [0xFBeef]",
+      "symbol": "KNOWN",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/573/256x256.png"
     },
     {
-      "tags": [
-        "vault"
-      ],
       "chainId": 1,
-      "address": "0x275C668AAbb1fAa666f1CE5dCa5dC8c744dE75BF",
-      "symbol": "GHIB",
+      "address": "0x181b685bfc42ceeaadf647cce9408b5d38777eb9",
+      "name": "MoonSaudis",
+      "symbol": "MOON",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/574/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3615be0c57148cc409e0d902bf57621bdcde20e",
+      "name": "Fast Food Punks Gen 2",
+      "symbol": "FFPUNK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/575/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c091400f73772f4b17d28c0b00691ede6af1b96",
+      "name": "United Planets",
+      "symbol": "PLANET",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/576/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9486f7202d24e48d69c4d9d3f3173fae9f2849e",
+      "name": "ITSUKI",
+      "symbol": "ITSUKI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/578/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xcfcd2a0b70bec43945a3860816039063d8c3061c",
+      "name": "Banners NFT",
+      "symbol": "BANNER",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/579/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x609675d48b21493f87dfcee5664eb3d4eb4c289d",
+      "name": "Kanpai Pandas VIP Pass",
+      "symbol": "KPVIP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/580/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b7390e59a9aeb2e941a9a8ea6e2002f742400b6",
+      "name": "Fortune Friends Club",
+      "symbol": "FFC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/582/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9fbc92cac6de483dc857b90fc30f78be63eced6",
+      "name": "TheJapaneseNFT",
+      "symbol": "JPNKS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/583/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x316af3645b60b81b14c8032c4e4251f2c4674b70",
+      "name": "Crypto Marcs",
+      "symbol": "MARCS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/584/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e946833aa67eaf849927817f25f0d2f04064499",
+      "name": "Luft Balloons",
+      "symbol": "LUFT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/585/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x64be093cf4ab72d6af0fcb4d5bced335817bc5af",
+      "name": "BBRC OFFICIAL - IVY BOYS",
+      "symbol": "IVY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/586/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x658452be535d0ec04e76e29a5b808b9dc945bc43",
+      "name": "NounPunks4Peace",
+      "symbol": "NP4P",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/587/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5ed6e8f9a2c8c41543b360aa22ac48eb0efa7177",
+      "name": "Girls, Robots, Dragons",
+      "symbol": "GRD",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/588/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1524db9e288cb86423d5b8442758f9d62e67eb32",
+      "name": "Trippy Toadz",
+      "symbol": "TRIPPY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/589/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x24b128ea75e3291a248212edae4de133664dc683",
+      "name": "Pudgy Rods",
+      "symbol": "ROG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/592/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x86a3adc4eb74f6ed82bbe56d05dff16e30537291",
+      "name": "THE STAKER CLASS",
+      "symbol": "STAKER",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/594/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1050229b211d7dc6cd3025b459cff2d2642ba34",
+      "name": "moonbats.wtf",
+      "symbol": "BLOOD",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/595/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x98efed71928ae7d0c2b993de013af788ff1c4376",
+      "name": "Maximalists",
+      "symbol": "MAXI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/596/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a977feaac1346e8c137310db06f240551475eff",
+      "name": "Stoned Nouns",
+      "symbol": "STONED",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/597/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x777078f4bc29d6fbcb0e8834c68fd2f72428a7a3",
+      "name": "MoonVamps",
+      "symbol": "VAMPS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/598/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x95504092c8d2d7bc7ed9a7c304f7870ab57e03f0",
+      "name": "MoonBats",
+      "symbol": "BATS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/599/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd54be77d9550f9bbaf468238bbf377afd1ba0844",
+      "name": "Streets of Milady",
+      "symbol": "STREET",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/600/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d6c149fcd202f1aae9d5b334d9c8155f55aa0a3",
+      "name": "OnChainKevin",
+      "symbol": "DERP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/601/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2483f5fb7e8fe915f8e540e9abdfbba34a86f4c6",
+      "name": "Babbys",
+      "symbol": "BABBY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/602/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x70051a1ca4a9634c3a6e20d925aab771a9ed42f2",
+      "name": "PuzlWorldPacks",
+      "symbol": "PUZLPK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/603/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e356442f6f8679e477eb38833eecbddcd140aef",
+      "name": "NanoPass",
+      "symbol": "NPASS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/605/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xef94297877113f5d3d30e5b705267531d80882c7",
+      "name": "GNSS Art",
+      "symbol": "GNSS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/608/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe118b7e19a2e96c90765ef526b7ada966df7e713",
+      "name": "Fringe Drifters",
+      "symbol": "FRINGE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/610/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x19ada1c76b1256bf73db4d74fbb2f8bf83509eb9",
+      "name": "Chill RX",
+      "symbol": "CLRX",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/611/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x54abc3f8b584d6de4af280aabba7a1a70e2cc57c",
+      "name": "Tableland Rigs",
+      "symbol": "RIG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/612/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x35bfa0d3d2771c768487257349c89d80f4ebdd7e",
+      "name": "Rare Apepe Yacht Club",
+      "symbol": "APEPE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/615/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf87e5f42fc751aef8b068b3b873dae8e4bd3e39",
+      "name": "Bart's Farm Frens",
+      "symbol": "BFF",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/617/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8e6530c41641b11db48a4c9d14ab9d6756810a2",
+      "name": "Still Life with Punk Attributes",
+      "symbol": "PUNKST",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/619/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xef56bbebb114a097430c41542d594785b219dd7e",
+      "name": "Sybilverse",
+      "symbol": "SYBIL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/621/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d37cb1be7c7c8c0fc7b24580668eedceca93dcf",
+      "name": "WonderPals",
+      "symbol": "PAL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/622/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x558ebb77595b244077d4f98c6ab877bfe38b304c",
+      "name": "Lonely Alien Space Club",
+      "symbol": "LASC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/623/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x91576a7a146158c6b35aba28bda936bae7f8ee9c",
+      "name": "Super Geisha",
+      "symbol": "GEISHA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/625/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xece3e14924eecb79aadc286839a86c0d54718d95",
+      "name": "The Barren Court",
+      "symbol": "BARREN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/626/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9dd2d60060de7bd524c871751d34b9e1bae6e63f",
+      "name": "ToriZero",
+      "symbol": "TORI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/627/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xacf9f776841826d7418935ce4a1ca9cf852ba9a2",
+      "name": "The Wynlambo",
+      "symbol": "WYNL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/628/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x614a0c75b1574748634dea378a7044f614b6fd9d",
+      "name": "10k Club",
+      "symbol": "NNNN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/630/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x382923dd0afc5e66013c114cf2854ad4fe40e2ca",
+      "name": "ALICE",
+      "symbol": "ALICE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/631/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x16c1f95b1db01c6e87867ab0154682dc5f273588",
+      "name": "EXES",
+      "symbol": "XXX",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/632/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3f5f8153004e081cb03c64324034b7578ac92a7e",
+      "name": "Milady Rave",
+      "symbol": "MIR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/633/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa35bd2246978dfbb1980dff8ff0f5834335dfdbc",
+      "name": "Remilio Babies",
+      "symbol": "REMIO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/634/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf604ea757d65f4d980972dd833e0e604f99b99f9",
+      "name": "Sketchy Ape Comic Club",
+      "symbol": "COMIC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/635/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x27aae10aaafc1f2f1a05f273209aa835e2ffe224",
+      "name": "OddFren.wtf",
+      "symbol": "FREN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/636/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xce47ab419243492de725c64b4dfcaa5d4067c621",
+      "name": "ENS Maxis",
+      "symbol": "MAXI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/638/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9419784ad210cada52c385ff74dc8675effcbf29",
+      "name": "Stickmen Toys",
+      "symbol": "STICK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/640/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4e863c7b24833301f3776e48f4f3cf6f3c8547c",
+      "name": "MetaGeckos by Trent Kaniuga",
+      "symbol": "MGEKTK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/641/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe82612a5c7b77495a5cc2b746aa94f08b433eb46",
+      "name": "Entities MultiPass",
+      "symbol": "EMULTI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/642/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a024f59814a12036cc07532ff11f59caff8b0b8",
+      "name": "MakersPlace Vault",
+      "symbol": "MAKERS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/645/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4fb49fb6e61f8e55b71f37e03f2e8542433ec10",
+      "name": "Cutie Cakes",
+      "symbol": "CAKE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/647/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb1af4e90b1d179e1ad759b84344c8a5126fe582e",
+      "name": "Toy Stash",
+      "symbol": "STASH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/648/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf357c8270d5eb35655622c87dd76d182833562c4",
+      "name": "Webaverse Genesis Pass",
+      "symbol": "WEBA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/649/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7c31e8d1efb8bb3dc414af32ced06e34af70f9c",
+      "name": "scumbags.wtf",
+      "symbol": "SCUM",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/650/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x534ba3a35ccd90d49217830a9ce5182e470d7b09",
+      "name": "SuperPool-B",
+      "symbol": "SUPERB",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/651/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c781f30551e8f98de2406828f49afdf4fc4046a",
+      "name": "Not V1 Phunks",
+      "symbol": "VPHUNK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/652/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ac082adedb6cda494731695dd811839f12d7f56",
+      "name": "MyFinalForm",
+      "symbol": "MFF",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/653/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xacc6de9040ee7ff837835a0e2d8a98525c257233",
+      "name": "CommandZ",
+      "symbol": "CMDZ",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/654/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6663a45e347c2fe6b8ab18a3cf880f139c242695",
+      "name": "Wize Fellaz",
+      "symbol": "WIZE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/655/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fae03385dcf5518dd43c03c2f963092c89de33c",
+      "name": "V3Phunks",
+      "symbol": "PHUNKY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/656/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x97a495e145fa73fd775fd7975172a74354a59e44",
+      "name": "Unfudables",
+      "symbol": "UNF",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/657/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x094a6809a1830ff4dc844882321fad70c366ae59",
+      "name": "The Desert Bestiary",
+      "symbol": "DESBES",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/658/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x536649aa16c9417d6608013510cd06d633d64210",
+      "name": "Little Ape Friends",
+      "symbol": "FRIEND",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/659/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x28f332c2c87f4f845968eecbe5ed9f69a37d94cd",
+      "name": "Vitalik's Big PC",
+      "symbol": "BIGPC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/660/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5921044c7a137f0b0fd68543310f2dc081f2d87",
+      "name": "Proof of Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/661/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x38a2debbd03443235e13985706b53f2a08b04779",
+      "name": "Golly Ghosts",
+      "symbol": "BOO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/662/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x48d38701a6f1a270d5bc3883d9926481ae3e74c7",
+      "name": "Bored Ape Yoga Club",
+      "symbol": "YOGA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/664/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e5fdabaa67e3853f10652712beda7e960d1393c",
+      "name": "WomenOnChain",
+      "symbol": "WOMEN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/666/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x874a01aeed4fe7cf36e92c5df89353d9698600f9",
+      "name": "Yunks",
+      "symbol": "YUNK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/667/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1faf6575a21dc9a744378d98481c4779ae19af8c",
+      "name": "BaeApesNFT",
+      "symbol": "BAPES",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/668/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x26e25808deb3b63cd16080204d51086cd03e978f",
+      "name": "Dittos",
+      "symbol": "DITTO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/669/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3dbe353a68b9f179e569f8d92394e1172df3c710",
+      "name": "CryptoSimeji",
+      "symbol": "SIMEJI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/670/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x670527c86faf0e310b8cff0e2cde8609be9599fe",
+      "name": "CYBERPHUNK",
+      "symbol": "CYPH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/671/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7bc794a31f505b0900cea0ce0c4dc2df992d0b3c",
+      "name": "The Odd Dystrict Zena",
+      "symbol": "ZENA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/673/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa06d91df488a908981142f387579763b532f2a69",
+      "name": "MAXPEPE by YCOPY",
+      "symbol": "MAXPEP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/675/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf11614feb1cf9234bfd0ca7b618f890229505db7",
+      "name": "v69 Phunks - Phunky Wifeys",
+      "symbol": "WIFEYS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/678/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc91a632e78db7c74508ea26e91b266aa235f051",
+      "name": "Pixelady Maker",
+      "symbol": "PXLDY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/679/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d3f0e89b46c0f9d7e3ce80bc577351d3dfe4e51",
+      "name": "MergedPhunks",
+      "symbol": "MGDPHK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/681/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c5fa1d9bf36d7e2c98bb5df9980603299f21ea3",
+      "name": "XOXO",
+      "symbol": "XOXO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/682/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x57cf2d365c91983f026bc4e00e8033b912162317",
+      "name": "ribbitsnft",
+      "symbol": "POND",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/683/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x33077c3296c0c0f34180f60f21c02359c0e997a6",
+      "name": "Rave Pigs",
+      "symbol": "OINK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/685/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x20b65d441b35b63612d03aef3aaf721cab18e69e",
+      "name": "GRAYCRAFT2",
+      "symbol": "GC2",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/687/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x832d41cf89b9947064b6b8f6925ac499d38c72f2",
+      "name": "DigiDynos",
+      "symbol": "DYNO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/688/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x627ef861b0e356a0e3ed3a8aa827345e58fd6444",
+      "name": "AI Mutants PFP",
+      "symbol": "AMP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/689/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x44525dee2de7d66d43638b0cb67cb5544d24c97f",
+      "name": "Doge Club",
+      "symbol": "DOGC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/690/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc09230c0728716574498411b619d1abfcd62e39d",
+      "name": "The KittyButts",
+      "symbol": "KBUTT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/693/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xccae5f1e4a9728e464307b4c702b2f4c9f8d71e3",
+      "name": "y00ts yacht club",
+      "symbol": "YYC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/694/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1cf83e8cef54eb93741e90df18b25fb0af429ab",
+      "name": "GoblinAi",
+      "symbol": "GOBAI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/696/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9405294fe7a7b4aad7ef866bf9f40b49d81dbab",
+      "name": "Tribe Quokka Kids",
+      "symbol": "TQK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/697/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e78694c61181792bd4fea57692b92644d0a6caa",
+      "name": "Purr Evil",
+      "symbol": "EVIL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/698/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x08a6928327db1f48f703fb6b0eec9fb97adf8a0a",
+      "name": "SMASH.SORT.SLICE.LOVE",
+      "symbol": "SMASH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/699/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9360797c67475dec53df08aa22fde421653178d6",
+      "name": "Bored Beanz",
+      "symbol": "BEANZ",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/700/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa9a9af052f4b9bf4bcf8e7d5ce35407f80a941c2",
+      "name": "PUNK APE YACHT CLUB",
+      "symbol": "PUNKAY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/701/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x372c3737c3d53bb7586989df035f67d3ca6a75db",
+      "name": "Non Fungible League",
+      "symbol": "NFL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/702/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2f54326e6a8c0be4a68e645a1d4c8ac62ad605d",
+      "name": "Non Fungible League",
+      "symbol": "NFL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/703/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x815081be3591dc847dbd08df854eb5b0056aed36",
+      "name": "Poobsnft",
+      "symbol": "POOBS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/704/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x396bd4f97ed0eee711ff237aed3ebf9a893e7fa5",
+      "name": "Lasogette ",
+      "symbol": "LASOG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/706/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0fd034abd916842c17c89bae7b1ec696e1c104a9",
+      "name": "SoonBirds",
+      "symbol": "SOON",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/707/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5402ac7d6e8d47d5bef159ecaf7430bf23dd3a52",
+      "name": "Noun Peepos",
+      "symbol": "PEEPO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/708/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d4d8116b3d8d0ebebab30662bac1f36af0a6ee0",
+      "name": "Tribe Quokka Genesis",
+      "symbol": "TQG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/709/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x01745ad02587e6f86ade6039ff1579daa5457701",
+      "name": "Rekt Ape Cope Club",
+      "symbol": "REKT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/710/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x279ea747b39caa3718cef5373e94502861fe2628",
+      "name": "Forgotten Punks",
+      "symbol": "FPUNK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/712/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d45b029cb657f818a6bb944610b953d57a9c30f",
+      "name": "Robness Cyberpop Collabs",
+      "symbol": "CPOP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/713/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x331c82a0debf3cb1ebafff82fa2a5cc252fcf990",
+      "name": "CondoMini Condos",
+      "symbol": "CONDO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/716/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x275c668aabb1faa666f1ce5dca5dc8c744de75bf",
       "name": "Ghiblady Maker",
+      "symbol": "GHIB",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/719/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xca2cac615eea1e6991fe2ad3a12873a61b46bd2f",
+      "name": "Paper Chasers",
+      "symbol": "RIDERS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/721/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6156538f5a4065b22d835e4c965910097a059850",
+      "name": "Everybodys",
+      "symbol": "EVBODY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/722/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x55bfddbb7991502b28289fd4a216a451df36d36c",
+      "name": "SleepyHeads",
+      "symbol": "SLEEPY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/723/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x101f43d09d493eec6ddd41c3d770909f42fdd999",
+      "name": "EdgePunks",
+      "symbol": "EPUNK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/724/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7742995ff1eeaf4416b89a602bd3b3c4dff5215",
+      "name": "Degen Moon Frens",
+      "symbol": "DMF",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/727/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe02fa81f86976c7c16edf5c832e6b19c50ab873",
+      "name": "Schemurs",
+      "symbol": "SCHEMR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/734/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x54289ffd30294db816cf22c0f92dd7d8f18902e9",
+      "name": "Cyber Cryptoskulls",
+      "symbol": "CCSKUL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/736/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4a099f32a0d1cbc143da2e4abbe101630cc7c5b",
+      "name": "SUPERPLASTIC: Cryptojankyz",
+      "symbol": "JANKY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/737/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x48d0062335ddc05b28e7538f53d1dfeaf434af4f",
+      "name": "Superplastic: Headtripz",
+      "symbol": "TRIPZ",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/738/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf186d7bdb4da8f646a3238770618c47618d936e7",
+      "name": "LION",
+      "symbol": "LION",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/740/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x655503aaa60757d3b7afe8be02e20427cb690d6b",
+      "name": "Phunky Phrogs",
+      "symbol": "PHROGS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/741/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa9df95cdb7958b6263bed8ecdb29fa9afcfd4a8f",
+      "name": "MonoCats Evolved!",
+      "symbol": "MCAT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/742/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xeea1817804728d4a50547c11067c57307b72a6ae",
+      "name": "Milad Maker",
+      "symbol": "MILAD",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/743/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f8c559afccbe15c4588563f3f1ead7dff3ae0f7",
+      "name": "Friendship Bracelets",
+      "symbol": "FBS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/744/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c026ddb375e0c50bb6492757d4721fd4e8ae768",
+      "name": "The Wild Guardians",
+      "symbol": "TWG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/745/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5770754b48bb00be55aec19f4b02f6e6473d5dea",
+      "name": "Badam Bomb Squad",
+      "symbol": "BBS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/746/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4ef7f898c1e23745aa3e001a1dd32360f5ee230",
+      "name": "lilypool",
+      "symbol": "MILILY",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/747/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xca7ffb829835f3946998cb8d02a0c0b02012c3c5",
+      "name": "Nano Jellyz Vault",
+      "symbol": "NANO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/749/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf73bf850610f7b2854f8fc008c57f3952e63b632",
+      "name": "DOS Phunks",
+      "symbol": "DOSPNK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/750/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bf60724361a019b6374d8fb5ec07e28e5747bc7",
+      "name": "SUDOBURGER INGREDIENT POOL",
+      "symbol": "ING",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/751/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1299fba6a1d0e281163564453664738dd53f1ca4",
+      "name": "Hypex",
+      "symbol": "HYPEX",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/754/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8bb2bfed20b0d0bbab2651a7b0317ff5fb191b1",
+      "name": "Lonely Frog Lambo Club",
+      "symbol": "LFLC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/757/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf3cc5b79c824a1fc7c545da62c535dbb4159091",
+      "name": "EY3K0N",
+      "symbol": "EYE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/758/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x618b55c62582e007e2c1f03eade4b8dcb7e521f2",
+      "name": "Toonies Social Club",
+      "symbol": "TOON",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/760/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfb50691f38d9897bf1dcfb6ccf65e95daaf4dc52",
+      "name": "Moonshiners",
+      "symbol": "SHINE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/761/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x44f6aa108d5004ff3be55f00f8dd923f486f2493",
+      "name": "Donald Trump Yacht Club",
+      "symbol": "TRUMP",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/762/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0338dfcbc2d64ce47e7b7e74399b129fe8f6444",
+      "name": "AI Birds by Computer",
+      "symbol": "AIBIRDS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/764/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x569a0ff212efe6b2fac806765ef59ce6685f2dd2",
+      "name": "God Hates Andrew T",
+      "symbol": "TOPG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/765/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x70ac11307a2a8d99e5fd6c00886b5bce1af08190",
+      "name": "Edgehogs",
+      "symbol": "EHOGS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/767/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x03e611209ec199457c10f7889669510fc88d8245",
+      "name": "PANKSNOTDED",
+      "symbol": "PANK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/768/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x855882cc65ba66cdbc7a8c512143f10169891307",
+      "name": "MiladyStation",
+      "symbol": "MPC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/774/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9104d72c25fda61c5fdd18c5ae2e17ffbc5ae070",
+      "name": "Feetpix",
+      "symbol": "FEETS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/776/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x375c825f6a5fa1417800d19ff8dc4e85da09e46a",
+      "name": "Based Ghouls",
+      "symbol": "GHLS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/777/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb21a7f37970043e66bf38bd18afaf0c6265735f7",
+      "name": "Bufficorn Buidl Brigade",
+      "symbol": "BUFF",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/786/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x573a918e96ea33c087ab65bcf90b46fa79877239",
+      "name": "Oekaki Maker",
+      "symbol": "KAKI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/787/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x30757251bb8c5975fff7c885eebf8a133397d431",
+      "name": "JANKLERZ",
+      "symbol": "JANK",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/788/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa223bd723226149d5fa35c892b8629973e019823",
+      "name": "The Larva Crabs",
+      "symbol": "CLAW",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/790/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xec42fb29f2f6ee5a1f43e0a823108b2d3e78f707",
+      "name": "JOYsmilies",
+      "symbol": "SMILE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/791/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x282612a375cd8b2dbf7bd1604d45832691a24d9f",
+      "name": "TycoonPunks",
+      "symbol": "TYCOON",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/792/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf36a19a05ce921ec5d215faaf9a1d0cd5d004ad1",
+      "name": "base",
+      "symbol": "BASE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/793/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a167defa3f6d0b662dfd0c3b0983b4923afd39c",
+      "name": "Goblin Lucky Charm",
+      "symbol": "CHARM",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/794/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd13255b20fcb04b7f15b8156bcc4fb925bc2672a",
+      "name": "Crypto Coaster",
+      "symbol": "COASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/795/256x256.png"
     }
   ]
 }
