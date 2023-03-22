@@ -1,5 +1,5 @@
 {
-  "name": "NFTX V2 Tokens",
+  "name": "NFTX Vaults",
   "logoURI": "https://assets.nftx.io/nftx/icons/icon-on-white-bg-256.png",
   "keywords": [
     "nft",
@@ -8,10 +8,10 @@
   ],
   "version": {
     "major": 5,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
-  "timestamp": "2023-03-22T15:01:22.322Z",
+  "timestamp": "2023-03-22T15:48:18.972Z",
   "tokens": [
     {
       "chainId": 1,
@@ -4412,6 +4412,350 @@
       "symbol": "COASTR",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/795/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x7ca7725f6ae3e200d67d2df31441ab25fc79619c",
+      "name": "ArbiDudes",
+      "symbol": "DUDE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/0/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x7776e8df4d753c5d6373cc855a3053924610c702",
+      "name": "Government Toucans",
+      "symbol": "TOUCAN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/1/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4bb8209cc9122ea8536c7ae3cf67f3ecf8f4d103",
+      "name": "Smol Brains",
+      "symbol": "BRAINS",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/2/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa4ef8045806bea517be547a80cd8eccc1fb6a480",
+      "name": "Aux Legions",
+      "symbol": "ALGN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/5/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xbd42144d823ed89fbc801ede01abb698f6f0870c",
+      "name": "ROBONAUT",
+      "symbol": "ROBO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/6/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x30b1e99f6eac35c62345a8854f1ef92138e772d6",
+      "name": "NovaNaut",
+      "symbol": "NONA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/7/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x5705eb04225cd3901cd4e6c36f9603792a5ac100",
+      "name": "Arbinauts",
+      "symbol": "ARNAUT",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/12/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xfea3e14a2feee279e4976ef864eed4275c8f47a5",
+      "name": "Nitro Mandalas",
+      "symbol": "NITRO",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/13/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xd3733a5b7646f15d786526248b0a9d40599b9293",
+      "name": "Arbigans",
+      "symbol": "ARBGAN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/14/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4845ce8183376176f0560ca483f88e13b4a69c3e",
+      "name": "Space Apes",
+      "symbol": "SPAPE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/16/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4b61328561f875b362137ec0a4bdcd10bb37b45b",
+      "name": "Full Moon Talisman",
+      "symbol": "GHOST",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/17/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x8fbef467c84cae31c3611b3ddcec9ef39c2d419d",
+      "name": "Arbinauts Quest",
+      "symbol": "ARBQST",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/18/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x42c12c445d11ee294abd1a0b522792ff93cfd27f",
+      "name": "Rainbow Element",
+      "symbol": "RAINBE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/19/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa371a28e22e4abf53d11b0686c7cdf74dde8a0fd",
+      "name": "Galactic Gan",
+      "symbol": "GALGAN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/20/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x8f15a8c611c0a869af49125ed43da1dd010e3fb7",
+      "name": "Arbigans GALXE",
+      "symbol": "ARBGAL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/21/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x1b6788d7d1b7b52a521b05ff2201afbc1752998a",
+      "name": "Cosmic Warriors",
+      "symbol": "COSMIC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/27/256x256.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x0d7ba2e599cadea69269f7cefc9eba4842a00dab",
+      "name": "Mortal Portals",
+      "symbol": "MORTAL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/arbitrum/30/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x8be7868a36d24b821aaaf2bd8f1f2dd1509a7aef",
+      "name": "Multi Faucet",
+      "symbol": "MULTI",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/0/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0xb07c395672bf0c5a7ec6dbad187d1a3c92caeb9d",
+      "name": "Unauthorised BAYC",
+      "symbol": "UBAYC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/1/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0xc5f887f892cc1c5b7e23726fa69b094c000a348a",
+      "name": "CyptoSloths",
+      "symbol": "SLOTH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/3/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x3941edd30bd749d0ebbcea30ce69171443ae2769",
+      "name": "Havah Friends",
+      "symbol": "HAVAH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/4/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0xf3696bdfe820eedba3753a2055f146144aec4911",
+      "name": "HAVAH2",
+      "symbol": "HAVA2",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/6/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x3ef0e4e3438b90f32f173e4947d2f0f31a7d6fda",
+      "name": "Free For All Test",
+      "symbol": "FFATEST",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/7/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x1e8ba925398b90209b59df5d1df1220ef42b26b4",
+      "name": "frefre",
+      "symbol": "frefre",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/8/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x0bd26db83848b09208166d0a7b47cc0b072f7cd0",
+      "name": "Unlocked Mayc Two",
+      "symbol": "UMAYC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/9/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0xf3edad0e15a28bd29773178943464ba3591bc58f",
+      "name": "Doodles",
+      "symbol": "DOODLE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/10/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x04053a8a8ee02afa16ca9f767cbd09ed6d63d565",
+      "name": "Hava Icon Upload 1",
+      "symbol": "HAVIU1",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/11/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x6e739a1f96ab1dc941493f9897834df94fb01ccf",
+      "name": "Havah Frens",
+      "symbol": "HAVAH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/12/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x5caa4a286ff97ae8ee57aed8b246e72e3f66ea0d",
+      "name": "Sloths",
+      "symbol": "SLOTH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/13/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0xdf6c73aed426fb0032e2811a6c7243dfd57e49dd",
+      "name": "Havah Frens Blue Chip",
+      "symbol": "HVBC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/16/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0xee6faf72bed4d1a6f5078734bcc79218160596d4",
+      "name": "Cyan Penguins",
+      "symbol": "CPENG",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/17/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x8af4839d78ff743b0ff88e43f0c2a9bf8c76e37d",
+      "name": "SLothy",
+      "symbol": "SLOOOOTH",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/18/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0xbd9400d169a41f3ff1214fcb850c2866986653a3",
+      "name": "Coolcats",
+      "symbol": "COOL",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/19/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0xff7e8d355c0b06b270d69f488a5508c2ad9ce8fa",
+      "name": "AAAAAAtest",
+      "symbol": "TEST",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/21/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x1a426b901d58881183c3812b68cc56f4cd96fee4",
+      "name": "f",
+      "symbol": "F",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/22/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x1ac7968a00df404da4e68380a4d491c13f72fe36",
+      "name": "tes",
+      "symbol": "TES",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/24/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x9426a2366fd425d7f97459f0dadb5337e3016546",
+      "name": "abc",
+      "symbol": "ABC",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/25/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x124f1f579b81af8387876b0337ab7b937dd9de49",
+      "name": "LendCryptoSlothsV1",
+      "symbol": "LCSV1",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/42/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0xf2379a1f3846eb008f2082ff8df469852881b528",
+      "name": "LendTESTV2",
+      "symbol": "LTV2",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/50/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x460ccb8b9299ebb3163d1a35baae0985772ad39b",
+      "name": "LendTESTV3",
+      "symbol": "LTV3",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/52/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0xba2999b160748f34cb73d3d9503017090553ae17",
+      "name": "LendTESTV4",
+      "symbol": "LTV4",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/55/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0xd97448147ca6d809cc537bc7dbf7da7282a6afc7",
+      "name": "LendTESTV5",
+      "symbol": "LTV5",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/57/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x6881f54c21449706c894708061e8775f7c735385",
+      "name": "LendTestNft",
+      "symbol": "LTN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/58/256x256.png"
     }
   ]
 }
