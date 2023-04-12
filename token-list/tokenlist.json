@@ -8,10 +8,10 @@
   ],
   "version": {
     "major": 5,
-    "minor": 1,
-    "patch": 1
+    "minor": 2,
+    "patch": 0
   },
-  "timestamp": "2023-03-22T15:48:18.972Z",
+  "timestamp": "2023-04-12T10:44:18.618Z",
   "tokens": [
     {
       "chainId": 1,
@@ -320,7 +320,7 @@
     {
       "chainId": 1,
       "address": "0x1ee01654665303a5dd2744e30b576941880e3a73",
-      "name": "Degen'\/$ Farm Normies",
+      "name": "Degen' Farm Normies",
       "symbol": "DFNORM",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/48/256x256.png"
@@ -424,7 +424,7 @@
     {
       "chainId": 1,
       "address": "0x1a03515b72ffc7709d4103c75e74c2efb32a9133",
-      "name": "Degen\/'\/$ Farm Genesis Egg",
+      "name": "Degen' Farm Genesis Egg",
       "symbol": "DFGEGG",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/65/256x256.png"
@@ -720,7 +720,7 @@
     {
       "chainId": 1,
       "address": "0x0f8cd97268a49421929e7f1a0eefbe74ad8b60da",
-      "name": "HDPunk 🔫 Roulette 🔫",
+      "name": "HDPunk  Roulette ",
       "symbol": "HDPNKR",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/136/256x256.png"
@@ -816,7 +816,7 @@
     {
       "chainId": 1,
       "address": "0x457b1687a54cec1ef374a0a13f10b4b4d3a5066b",
-      "name": "HDPunk 🐱‍💻 Hoodies 🐱‍💻",
+      "name": "HDPunk  Hoodies ",
       "symbol": "HDPNKH",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/150/256x256.png"
@@ -2688,7 +2688,7 @@
     {
       "chainId": 1,
       "address": "0x8498b2528dd9f88ac2540eacbf9c38636a37dcb0",
-      "name": "I Like You, You're Weird",
+      "name": "I Like You You're Weird",
       "symbol": "ILYYW",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/481/256x256.png"
@@ -2764,6 +2764,14 @@
       "symbol": "PXLGOB",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/493/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fd6b0808d0db9880f6f4eda2f203e7ee0edf35b",
+      "name": "dGenesis dGen Automatons",
+      "symbol": "DGEN",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/495/256x256.png"
     },
     {
       "chainId": 1,
@@ -3320,7 +3328,7 @@
     {
       "chainId": 1,
       "address": "0x5ed6e8f9a2c8c41543b360aa22ac48eb0efa7177",
-      "name": "Girls, Robots, Dragons",
+      "name": "Girls Robots Dragons",
       "symbol": "GRD",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/588/256x256.png"
@@ -4414,6 +4422,22 @@
       "logoURI": "https://assets.nftx.io/vaults-v2/795/256x256.png"
     },
     {
+      "chainId": 1,
+      "address": "0x6d627c33eea1a1b4b139c0b788010ff50b80b513",
+      "name": "WeAreAllGoingToDie",
+      "symbol": "WAGDIE",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/797/256x256.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x530450a3f4ce287333d742e546e260bfd9afe811",
+      "name": "Nakamigas",
+      "symbol": "NAKA",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/798/256x256.png"
+    },
+    {
       "chainId": 42161,
       "address": "0x7ca7725f6ae3e200d67d2df31441ab25fc79619c",
       "name": "ArbiDudes",
@@ -4756,6 +4780,14 @@
       "symbol": "LTN",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/goerli/58/256x256.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x263a04ef1da1144568454b2282ff168e74bc58d2",
+      "name": "Appraisoooor",
+      "symbol": "DNFTX",
+      "decimals": 18,
+      "logoURI": "https://assets.nftx.io/vaults-v2/goerli/59/256x256.png"
     }
   ]
 }
