@@ -9,7 +9,7 @@
   "version": {
     "major": 5,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "timestamp": "2023-03-22T15:48:18.972Z",
   "tokens": [
@@ -320,7 +320,7 @@
     {
       "chainId": 1,
       "address": "0x1ee01654665303a5dd2744e30b576941880e3a73",
-      "name": "Degen'$ Farm Normies",
+      "name": "Degen'\/$ Farm Normies",
       "symbol": "DFNORM",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/48/256x256.png"
@@ -424,7 +424,7 @@
     {
       "chainId": 1,
       "address": "0x1a03515b72ffc7709d4103c75e74c2efb32a9133",
-      "name": "Degen'$ Farm Genesis Egg",
+      "name": "Degen\/'\/$ Farm Genesis Egg",
       "symbol": "DFGEGG",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/65/256x256.png"
@@ -640,7 +640,7 @@
     {
       "chainId": 1,
       "address": "0x295fc05d34fa93e92370c7706043e0705fc6acaa",
-      "name": "PROOF OF BEAUTY'S $LONDON GIFT",
+      "name": "PROOF OF BEAUTY'S LONDON GIFT",
       "symbol": "LONDON",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/120/256x256.png"
@@ -656,7 +656,7 @@
     {
       "chainId": 1,
       "address": "0xea1f08c0debd728753b7196d689d065d1b5d5585",
-      "name": "Proof of Beauty's $LONDON Gift",
+      "name": "Proof of Beauty's LONDON Gift",
       "symbol": "LONDON",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/122/256x256.png"
@@ -2208,7 +2208,7 @@
     {
       "chainId": 1,
       "address": "0x9ee7c611f1ed588363ef18d90543349448ec4c6a",
-      "name": "Air Yeezy 1 Prototype #0",
+      "name": "Air Yeezy 1 Prototype 0",
       "symbol": "AIRYZY",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/400/256x256.png"
@@ -3024,7 +3024,7 @@
     {
       "chainId": 1,
       "address": "0xb987a6197043ee356658f787504004e4591b7a81",
-      "name": "Bord ape Yacht #50",
+      "name": "Bord ape Yacht 50",
       "symbol": "BORD",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/544/256x256.png"
@@ -4168,7 +4168,7 @@
     {
       "chainId": 1,
       "address": "0xa9df95cdb7958b6263bed8ecdb29fa9afcfd4a8f",
-      "name": "MonoCats Evolved!",
+      "name": "MonoCats Evolved",
       "symbol": "MCAT",
       "decimals": 18,
       "logoURI": "https://assets.nftx.io/vaults-v2/742/256x256.png"
